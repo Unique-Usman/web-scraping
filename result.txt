@@ -1,0 +1,60 @@
+1. Concept mapping as a metacognition tool in a problem-solving-based BME course during in-person and online instruction - 2022
+None
+
+2. Gamification for Teaching Sustainability to Engineering Students - 2022
+This innovative practice full paper describes sustainability teaching through game-based activities in engineering classrooms for potentially enhancing student interest in Science, Technology, Engineering and Mathematics (STEM) fields. Meta-analytic research indeed supports that gamification enhances student learning by increasing engagement and motivation, promoting goal setting behaviors and supporting the need for recognition. While there is a high scope for utilizing game-based tools to help students connect with global sustainability challenges, literature reflects a scarcity of such innovative pedagogical tools in engineering education. To tackle this challenge, we introduced interactive game-based modules to teach sustainability within two different education cultural contexts – one in the U.S. as a part of a Honours course at a large public university, and one in India, as a part of the first year engineering …
+
+3. Collagen Biografts for Tunable Drug Delivery - 2021
+One of the biggest challenges in tissue engineering currently is the formation of a functional microvascular network as part of an engineered tissue graft. Despite many advances in tissue engineering methods, the field still awaits biograft designs that enable neovascularization at clinically relevant size scales. Critical to the design of such materials are tissue-specific physico-mechanical properties and controlled local therapeutic molecular release.
+
+4. Structuring formative feedback in an online graphics design course in BME - 2021
+With a motivation to immerse students in engineering design, graphics communication, and computer aided design (CAD) skills early-on in the biomedical engineering curriculum, we launched a new 2-unit laboratory course on “Graphics Design in BME” in the Spring 2020 quarter for UC Davis sophomores. Due to the COVID-19 pandemic, the course met with the significant challenge of conversion to an online mode of teaching, instead of planned face-to-face instruction. Providing formative feedback was thought to be an important step to help students succeed in their final CAD project of the course. In the process of designing feedback, we found that the concept of feedback is still fragile in an online learning environment because online learning settings provide distinct pedagogical demands as compared to face-to-face settings. The situation is especially delicate in the context of contemporary higher education …
+
+5. Collagen Biografts for Chronic Wound Healing - 2021
+Chronic wounds fail to heal due to an imbalance between extracellular matrix (ECM) deposition and degradation, impaired cell recruitment, and lack of essential neovascularization (Demidova-Rice TN, Durham JT, Herman IM, Adv Wound Care 1:17–22, 2012). Normal healing of acute wounds represents a multistep process beginning with hemostasis and inflammation during the acute stages of healing, followed by phases of robust cellular proliferation, ECM deposition, matrix remodeling, and ultimately scar formation (Gurtner GC, Werner S, Barrandon Y, Longaker MT, Wound Repair Regen 453:314–321, Singer AJ, Clark RAF, N Engl J Med 341:738–746, 1999). However, in chronic wounds, the dynamic spatiotemporal interaction between endothelial cells, angiogenesis factors, and surrounding ECM proteins is impaired (Barrientos S, Brem H, Stojadinovic O, Tomic-Canic M, Wound Repair Regen 22:569 …
+
+6. Facilitating Student Metacognition Using Exam Wrappers and Concept Maps in a Problem Solving-based BME Course - 2021
+Fundamentals of Bioengineering is a required 2nd-year Biomedical Engineering course aimed to address fundamental bioengineering concepts through the application of conservation principles to biomedical engineering problems. This course serves as a prerequisite course for the upper-division courses in which subsequent courses rely on students’ content knowledge from this course. We are therefore continually improving methods to make content more accessible from a learning perspective and enhance conceptual understanding, and as a result, improve overall student performance in the class. Metacognitive skills can have enormous benefits for students within this course, and help students when pursuing higher levels of education, and perform complex tasks in professional life requiring one to take greater responsibility for one’s learning. Unfortunately, these metacognitive skills tend to fall outside the content area of most courses, and consequently, they can be often neglected in instruction. In a large Biomedical Engineering class focused on solving mass and energy transfer problems, promoting metacognitive skills was a challenge that was met with two specific interventions–1) introduction of exam wrappers and class-wide discussion of relevant study strategies, 2) formulating concept maps and discussing them in groups with peers. This paper shares the mechanisms of execution of both of these strategies along with key insights from their implementation in a large sophomore class on Fundamentals of Bioengineering.
+
+7. From In Vivo Synthesis to In Vitro Drug Delivery Device Formation - 2021
+None
+
+8. Application of Collagen Fibril Biografts for Enhancing Local Vascularization in an In-Vivo Chick Chorioallantoic Membrane (CAM) Model - 2021
+Poor vascularization is a hallmark of chronic wounds such as diabetic foot ulcers. Vascularization can be improved through the use of growth factors (GFs) such as VEGF, delivered using collagen-based materials. However, the GFs are delicate to handle, costly to use, and must be administered in the correct dosages for the safety of the patient. One of the problems currently is the poor ability of collagen constructs to become vascularized within a reasonable time. This calls for the design of collagen-based drug delivery systems that allows for controlled, precise, sustained, and localized release of GFs. Affinity-based retention strategy binding VEGF to heparin and heparin to collagen has the potential to offer controlled release of VEGF through collagen while retaining the collagen fibril’s physiologically relevant self-assembly properties. Heparin and VEGF quantity should be carefully chosen to not affect VEGF …
+
+9. Creating Tunable Collagen Matrices – An Approach Inspired by In Vivo Collagen Synthesis and Self-Assembly - 2021
+The tunability of collagen at a fibrillar and molecular level, along with its proteolytic degradability, can offer a great potential to create multifunctional soft tissue grafts capable of spatiotemporal molecular delivery. However, conventional collagen implants with minimal or no crosslinking provide little control over tunability without having exogenously cross-linked and/or chemically treated. Without these modifications, conventional collagen formulations degrade rapidly, without allowing for the host tissue to deposit its own ECM (Liang HC, Chang Y, Hsu CK, Lee MH, Sung HW, Biomaterials 25:3541–3552, 2004). Therefore, there is a need to regulate collagen microstructure as well as the degradation (Perez-Puyana V, Romero A, Guerrero A, J Biomed Mater Res Part A 104:1462–1468, 2016) in a way that preserves collagen properties and provides desired molecular release kinetics. When designing a drug …
+
+10. Introduction to Drug Delivery - 2021
+Functional tissue regeneration requires careful merger of optimal biograft material with drug delivery technology. Type I collagen, the predominant and major structural component of the extracellular matrix represents an ideal natural polymer candidate for such integrated tissue engineering and local molecular delivery strategies. Despite several advantages over other materials including biological signaling capacities, proteolytic biodegradability, low immunogenicity, and collagen-based biomaterials have found a very limited commercialization and clinical application. There is a scope to overcome the disadvantages that obstruct the potential of collagen as a multifunctional delivery platform for soft tissue reconstruction and be able to precisely and predictably control its microstructure, mechanical properties, and proteolytic degradability.
+
+11. Design Thinking Approach to Identify Barriers to Engineering Education Reform in India - 2020
+Today’s global, knowledge-driven economy is giving an impetus to the engineering educators to produce more and quality engineers with mindset toward global innovation and an international outlook [1]. Unfortunately, most engineering faculty are not well prepared for this educational reform. In the USA, most universities have set up professional faculty development programs to prepare engineering educators to address the challenges in providing quality education. While these program do a great job of training faculty, the faculty participation in these programs is low, possibly due to of lack of incentive, time, motivation, and/or awareness about the program existence [1]. Moreover, instructional development in such programs if provided by general education specialists, and not engineers, can create a feeling of irrelevance for the engineering faculty [1]. Universities have also encouraged adoption of well-researched and recommended solutions in teaching engineering that have been shown to facilitate learning more effectively [6-11]. A good example of this is promoting academic achievements and positive student attitudes through adoption of ‘active-learning’techniques such as collaborative and cooperative learning [12]. However, in practice the adoption of these techniques by many engineering faculty remains low. The question then becomes-How to design for intentional educational reform where the challenges in teaching engineering can be addressed while creating a large buy-in from all the stakeholders that will continually adopt and evolve best practices in engineering education? The need for engineering education reform also …
+
+12. Diversity and Inclusion in Engineering: Students’ Perceptions of Learning and Engaging with Difference - 2018
+None
+
+13. Exploring Diversity and Inclusion in the Professional Formation of Engineers through Design Sessions - 2018
+None
+
+14. Evaluating the Impact of Design Sessions on Participants’ Perceptions of Diversity and Inclusion in the Professional Formation of Biomedical Engineers - 2018
+None
+
+15. Diversity and Inclusion in Electrical and Computer Engineering: Students’ Perceptions of Learning and Engaging with Difference - 2018
+None
+
+16. ROS-responsive microspheres for on demand antioxidant therapy in a model of diabetic peripheral arterial disease - 2015
+None
+
+17. Dual pH-and temperature-responsive microparticles for protein delivery to ischemic tissues - 2013
+None
+
+18. Molecular imaging of experimental abdominal aortic aneurysms - 2013
+None
+
+19. Smart Microspheres for Stimuli Responsive Drug Delivery - 2011
+None
+
+20. LOW CALORIE BISCUITS FROM BANANA PEEL PULP. - 2007
+Annual banana production in world is about 100 million tons. However, banana peel is still considered as useless product and is discarded at large. These peels are otherwise useful and were thought to be acceptable for human consumption. Thus the idea of using peel pulp in biscuit production was explored. Normal biscuits without peel and biscuits containing 10% and 20% peel pulp were prepared. The product so prepared was analyzed for nutritional values and for presence of fungi. The three biscuit samples were also studied for their acceptance by society on subjects of different age groups containing equal number of genders. For this, 80 pupils from different standards of a school and 20 adults were selected randomly. The response from each subject was tabulated to reveal acceptability of various qualities of the biscuits viz. color, aroma, crispiness and taste. The data collected were analyzed using …
+
