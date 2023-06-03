@@ -1,0 +1,5 @@
+A photoacoustic imaging device using piezoelectric micromachined ultrasound transducers (PMUTs) - 2019
+Getting started with MATLAB: a quick introduction for scientists and engineers - 2018
+Graphene on paper: a simple, low-cost chemical sensing platform - 2015
+Performance enhancement of piezoelectric energy harvesters using multilayer and multistep beam configurations - 2015
+Graphene field emission devices - 2014
