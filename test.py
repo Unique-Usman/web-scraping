@@ -1,12 +1,15 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import requests
 import lxml
+import time
 
-def main():
-    link = input("Input the Google scholar page of the user\n")
+def scrap(html):
+#    link = input("Input the Google scholar page of the user\n")
 #    link = "https://scholar.google.com/citations?user=KiDhcfkAAAAJ&hl=en"
     sub_link = "https://scholar.google.com"
-    html = requests.get(link, headers = {'User-agent': 'your bot 0.1'}).text
+#   html = requests.get(link, headers = {'User-agent': 'your bot 0.1'}).text
     publication_names = []
     publication_years = []
     publication_abstracts = []
@@ -38,7 +41,7 @@ def main():
     size = len(publications_dict)
     print(f"The length of the publication is {size}")
     max = int(input("Input the number of publication which you want to get\n"))
-    count = 0
+    count = 0 
     if max >= size:
         max = size
     with open(f"result.txt", "w") as file:
@@ -49,5 +52,31 @@ def main():
             else:
                 break
 
-if __name__ == "__main__":
-    main()
+# Set up Selenium webdriver
+driver = webdriver.Chrome()  # Replace with the appropriate webdriver for your browser
+driver.get("https://scholar.google.com/citations?user=BR6HchkAAAAJ&hl=en&oi=ao")  # Replace with the URL of the page you want to download
+
+# Scroll down the page to load additional content
+SCROLL_PAUSE_TIME = 2  # Adjust as needed
+last_height = driver.execute_script("return document.body.scrollHeight")
+
+while True:
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(SCROLL_PAUSE_TIME)
+    new_height = driver.execute_script("return document.body.scrollHeight")
+    if new_height == last_height:
+        break
+    last_height = new_height
+
+# Get the full HTML source code of the page
+html = driver.page_source
+
+# Close the browser
+driver.quit()
+
+scrap(html)
+
+# Save the HTML source code to a file
+#with open("page.html", "w", encoding="utf-8") as file:
+ #   file.write(html)
+
