@@ -1,18 +1,35 @@
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
 import requests
 import lxml
 
 def main():
     link = input("Input the Google scholar page of the user\n")
-#    link = "https://scholar.google.com/citations?user=KiDhcfkAAAAJ&hl=en"
     sub_link = "https://scholar.google.com"
-    html = requests.get(link, headers = {'User-agent': 'your bot 0.1'}).text
+    
+    #This part is used to handle google scholar page with scrolling effect.
+    driver = webdriver.Chrome()
+    driver.get(link)
+    SCROLL_PAUSE_TIME = 2
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    while True:
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(SCROLL_PAUSE_TIME)
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            break
+        last_height = new_height
+    html = driver.page_source
+    driver.quit()
+    html = html
+
     publication_names = []
     publication_years = []
     publication_abstracts = []
     publications_dict = {} #for organizing the data
     content = BeautifulSoup(html, "lxml")
-#    print(content.prettify())
     publications = content.find_all("a", class_="gsc_a_at", limit=None)
     years = content.find_all("span", class_="gsc_a_h gsc_a_hc gs_ibl", limit=None)
     print(len(years))

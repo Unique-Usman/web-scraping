@@ -1,60 +1,819 @@
-1. Concept mapping as a metacognition tool in a problem-solving-based BME course during in-person and online instruction - 2022
+1. A generic parallel optimization framework for solving hard problems in optical networks - 2023
 None
 
-2. Gamification for Teaching Sustainability to Engineering Students - 2022
-This innovative practice full paper describes sustainability teaching through game-based activities in engineering classrooms for potentially enhancing student interest in Science, Technology, Engineering and Mathematics (STEM) fields. Meta-analytic research indeed supports that gamification enhances student learning by increasing engagement and motivation, promoting goal setting behaviors and supporting the need for recognition. While there is a high scope for utilizing game-based tools to help students connect with global sustainability challenges, literature reflects a scarcity of such innovative pedagogical tools in engineering education. To tackle this challenge, we introduced interactive game-based modules to teach sustainability within two different education cultural contexts – one in the U.S. as a part of a Honours course at a large public university, and one in India, as a part of the first year engineering …
-
-3. Collagen Biografts for Tunable Drug Delivery - 2021
-One of the biggest challenges in tissue engineering currently is the formation of a functional microvascular network as part of an engineered tissue graft. Despite many advances in tissue engineering methods, the field still awaits biograft designs that enable neovascularization at clinically relevant size scales. Critical to the design of such materials are tissue-specific physico-mechanical properties and controlled local therapeutic molecular release.
-
-4. Structuring formative feedback in an online graphics design course in BME - 2021
-With a motivation to immerse students in engineering design, graphics communication, and computer aided design (CAD) skills early-on in the biomedical engineering curriculum, we launched a new 2-unit laboratory course on “Graphics Design in BME” in the Spring 2020 quarter for UC Davis sophomores. Due to the COVID-19 pandemic, the course met with the significant challenge of conversion to an online mode of teaching, instead of planned face-to-face instruction. Providing formative feedback was thought to be an important step to help students succeed in their final CAD project of the course. In the process of designing feedback, we found that the concept of feedback is still fragile in an online learning environment because online learning settings provide distinct pedagogical demands as compared to face-to-face settings. The situation is especially delicate in the context of contemporary higher education …
-
-5. Collagen Biografts for Chronic Wound Healing - 2021
-Chronic wounds fail to heal due to an imbalance between extracellular matrix (ECM) deposition and degradation, impaired cell recruitment, and lack of essential neovascularization (Demidova-Rice TN, Durham JT, Herman IM, Adv Wound Care 1:17–22, 2012). Normal healing of acute wounds represents a multistep process beginning with hemostasis and inflammation during the acute stages of healing, followed by phases of robust cellular proliferation, ECM deposition, matrix remodeling, and ultimately scar formation (Gurtner GC, Werner S, Barrandon Y, Longaker MT, Wound Repair Regen 453:314–321, Singer AJ, Clark RAF, N Engl J Med 341:738–746, 1999). However, in chronic wounds, the dynamic spatiotemporal interaction between endothelial cells, angiogenesis factors, and surrounding ECM proteins is impaired (Barrientos S, Brem H, Stojadinovic O, Tomic-Canic M, Wound Repair Regen 22:569 …
-
-6. Facilitating Student Metacognition Using Exam Wrappers and Concept Maps in a Problem Solving-based BME Course - 2021
-Fundamentals of Bioengineering is a required 2nd-year Biomedical Engineering course aimed to address fundamental bioengineering concepts through the application of conservation principles to biomedical engineering problems. This course serves as a prerequisite course for the upper-division courses in which subsequent courses rely on students’ content knowledge from this course. We are therefore continually improving methods to make content more accessible from a learning perspective and enhance conceptual understanding, and as a result, improve overall student performance in the class. Metacognitive skills can have enormous benefits for students within this course, and help students when pursuing higher levels of education, and perform complex tasks in professional life requiring one to take greater responsibility for one’s learning. Unfortunately, these metacognitive skills tend to fall outside the content area of most courses, and consequently, they can be often neglected in instruction. In a large Biomedical Engineering class focused on solving mass and energy transfer problems, promoting metacognitive skills was a challenge that was met with two specific interventions–1) introduction of exam wrappers and class-wide discussion of relevant study strategies, 2) formulating concept maps and discussing them in groups with peers. This paper shares the mechanisms of execution of both of these strategies along with key insights from their implementation in a large sophomore class on Fundamentals of Bioengineering.
-
-7. From In Vivo Synthesis to In Vitro Drug Delivery Device Formation - 2021
+2. Topology Planning Using Q-Learning for Microwave-Based Wireless Backhaul Networks - 2023
 None
 
-8. Application of Collagen Fibril Biografts for Enhancing Local Vascularization in an In-Vivo Chick Chorioallantoic Membrane (CAM) Model - 2021
-Poor vascularization is a hallmark of chronic wounds such as diabetic foot ulcers. Vascularization can be improved through the use of growth factors (GFs) such as VEGF, delivered using collagen-based materials. However, the GFs are delicate to handle, costly to use, and must be administered in the correct dosages for the safety of the patient. One of the problems currently is the poor ability of collagen constructs to become vascularized within a reasonable time. This calls for the design of collagen-based drug delivery systems that allows for controlled, precise, sustained, and localized release of GFs. Affinity-based retention strategy binding VEGF to heparin and heparin to collagen has the potential to offer controlled release of VEGF through collagen while retaining the collagen fibril’s physiologically relevant self-assembly properties. Heparin and VEGF quantity should be carefully chosen to not affect VEGF …
-
-9. Creating Tunable Collagen Matrices – An Approach Inspired by In Vivo Collagen Synthesis and Self-Assembly - 2021
-The tunability of collagen at a fibrillar and molecular level, along with its proteolytic degradability, can offer a great potential to create multifunctional soft tissue grafts capable of spatiotemporal molecular delivery. However, conventional collagen implants with minimal or no crosslinking provide little control over tunability without having exogenously cross-linked and/or chemically treated. Without these modifications, conventional collagen formulations degrade rapidly, without allowing for the host tissue to deposit its own ECM (Liang HC, Chang Y, Hsu CK, Lee MH, Sung HW, Biomaterials 25:3541–3552, 2004). Therefore, there is a need to regulate collagen microstructure as well as the degradation (Perez-Puyana V, Romero A, Guerrero A, J Biomed Mater Res Part A 104:1462–1468, 2016) in a way that preserves collagen properties and provides desired molecular release kinetics. When designing a drug …
-
-10. Introduction to Drug Delivery - 2021
-Functional tissue regeneration requires careful merger of optimal biograft material with drug delivery technology. Type I collagen, the predominant and major structural component of the extracellular matrix represents an ideal natural polymer candidate for such integrated tissue engineering and local molecular delivery strategies. Despite several advantages over other materials including biological signaling capacities, proteolytic biodegradability, low immunogenicity, and collagen-based biomaterials have found a very limited commercialization and clinical application. There is a scope to overcome the disadvantages that obstruct the potential of collagen as a multifunctional delivery platform for soft tissue reconstruction and be able to precisely and predictably control its microstructure, mechanical properties, and proteolytic degradability.
-
-11. Design Thinking Approach to Identify Barriers to Engineering Education Reform in India - 2020
-Today’s global, knowledge-driven economy is giving an impetus to the engineering educators to produce more and quality engineers with mindset toward global innovation and an international outlook [1]. Unfortunately, most engineering faculty are not well prepared for this educational reform. In the USA, most universities have set up professional faculty development programs to prepare engineering educators to address the challenges in providing quality education. While these program do a great job of training faculty, the faculty participation in these programs is low, possibly due to of lack of incentive, time, motivation, and/or awareness about the program existence [1]. Moreover, instructional development in such programs if provided by general education specialists, and not engineers, can create a feeling of irrelevance for the engineering faculty [1]. Universities have also encouraged adoption of well-researched and recommended solutions in teaching engineering that have been shown to facilitate learning more effectively [6-11]. A good example of this is promoting academic achievements and positive student attitudes through adoption of ‘active-learning’techniques such as collaborative and cooperative learning [12]. However, in practice the adoption of these techniques by many engineering faculty remains low. The question then becomes-How to design for intentional educational reform where the challenges in teaching engineering can be addressed while creating a large buy-in from all the stakeholders that will continually adopt and evolve best practices in engineering education? The need for engineering education reform also …
-
-12. Diversity and Inclusion in Engineering: Students’ Perceptions of Learning and Engaging with Difference - 2018
+3. From Small to Large: Clos Network for Scaling All-Optical Switching - 2023
 None
 
-13. Exploring Diversity and Inclusion in the Professional Formation of Engineers through Design Sessions - 2018
+4. Optical Networks - 
 None
 
-14. Evaluating the Impact of Design Sessions on Participants’ Perceptions of Diversity and Inclusion in the Professional Formation of Biomedical Engineers - 2018
+5. Networks and Switching - 
 None
 
-15. Diversity and Inclusion in Electrical and Computer Engineering: Students’ Perceptions of Learning and Engaging with Difference - 2018
+6. Multicast Traffic Grooming with Leaking Strategy in WDM Mesh Networks - 
 None
 
-16. ROS-responsive microspheres for on demand antioxidant therapy in a model of diabetic peripheral arterial disease - 2015
+7. Optical Communications and Networking - 
 None
 
-17. Dual pH-and temperature-responsive microparticles for protein delivery to ischemic tissues - 2013
+8. Queueing Network Analysis Tool (QNAT): A GUI Based Queueing Network Analysis Tool - 
 None
 
-18. Molecular imaging of experimental abdominal aortic aneurysms - 2013
+9. Capone, Antonio 1990 Carli, Marco 2467 Carlos, Westphall Becker 2089 Carlsson, Gunnar 245 Casetti, Claudio 146 - 
 None
 
-19. Smart Microspheres for Stimuli Responsive Drug Delivery - 2011
+10. Regular Review Material - 
 None
 
-20. LOW CALORIE BISCUITS FROM BANANA PEEL PULP. - 2007
-Annual banana production in world is about 100 million tons. However, banana peel is still considered as useless product and is discarded at large. These peels are otherwise useful and were thought to be acceptable for human consumption. Thus the idea of using peel pulp in biscuit production was explored. Normal biscuits without peel and biscuits containing 10% and 20% peel pulp were prepared. The product so prepared was analyzed for nutritional values and for presence of fungi. The three biscuit samples were also studied for their acceptance by society on subjects of different age groups containing equal number of genders. For this, 80 pupils from different standards of a school and 20 adults were selected randomly. The response from each subject was tabulated to reveal acceptability of various qualities of the biscuits viz. color, aroma, crispiness and taste. The data collected were analyzed using …
+11. Eckardt, T. 145 Edmonds, E. 1458 Endeshaw. A. 1519 - 
+None
+
+12. Traffic Grooming Strategies for IP/MPLS over WDM Networks - 
+None
+
+13. Performance Analysis and Modelling of a Multiprocessor Router - 
+None
+
+14. Session Listing - 
+None
+
+15. IEEE International Conference on Networks—ICON’99 - 
+None
+
+16. Multistage intrusion detection system using machine learning algorithm - 2022
+Owing to the overwhelming dependency of individuals and corporations on the Web along with the concerns regarding the privacy and protection of their online activities, cybersecurity has received considerable attention. Numerous machine learning-based methodologies for detecting network breaches and preventing potential online behaviours have been proposed in the past. This research introduces an innovative network intrusion detection system based on machine learning. The proposed system minimizes the computing complexity at the same time preserves the accuracy of the detection to a great extend. The effects of oversampling algorithms on the training sample size of the model are explored in this research, and the minimal training sample size is determined. Optimization strategies based on hyperparameters are being explored in order to optimize the functioning of the intrusion detection system …
+
+17. A Six-Point Based Approach for Enhanced Broadcasting Using Selective Forwarding Mechanism in Mobile Ad Hoc Networks - 2022
+Broadcasting is a specific procedure that enables a system of PCs to transmit information bundles from a one source to various destinations. In wireless ad hoc networks, broadcasting can be complex because radio signals can overlap geographically. As a result, a basic flooded transmission is often quite expensive and results in significant redundancy. The paper proposes a new approach to broadcasting called Enhanced Broadcasting with Selective Forwarding (EBSF) that extends the distance adaptive broadcasting protocol by introducing a six point approach for finding a modified threshold. In our approach, we introduce six strategic points computed using a centre point, a radius, sine values and cosine values in such way that the strategic points are separated by 60° from the centre of the circle. This research work has the importance of decreasing the number of packets that every node transmits during …
+
+18. Collision Elimination for Random Behavior Nodes in Ad Hoc Wireless Network Using Early Backoff Announcement (EBA) - 2022
+Due to the detrimental repercussions of hidden terminals, collision avoidance is essential in contention-based media access control systems for multi-hop adhoc networks. Currently, the most common collision-avoidance strategies are four-way sender-initiated schemes. Although many research has been done to assess the performance of these schemes, the most of it has focused on single-hop ad hoc networks or networks with a limited proportion of hidden terminals. This research presents an enhancement to the existing IEEE 802.11 Distributed Coordination Function (DCF) MAC that reduces collisions, medium idle time, and overall network speed. The modification utilizes the existing Early backoff announcement (EBA) mechanism. The frame header in EBA is used by a station to indicate its upcoming backoff time; the backoff value is determined at random. This reduces collisions but no care has been taken to …
+
+19. Colorless, partially directionless, and contentionless architecture for high-degree ROADMs - 2022
+With the rapid growth of Internet traffic, there can be multiple pairs of bi-directional fibers on a network link. This leads to the need for high-degree reconfigurable optical add/drop multiplexers (ROADMs) in an optical network. However, this high-degree requirement poses new challenges to ROADMs since it is challenging and expensive for a wavelength selective switch (WSS), a key switching component in a ROADM, to expand its size. Therefore, a common strategy is to use small-size WSSs to build a high-degree ROADM. In this paper, we design a novel colorless, partially directionless, and contentionless (CpDC) ROADM architecture, in which the sizes of WSSs can be significantly reduced by partially sacrificing the directionless feature of a ROADM. The partially directionless feature may degrade the switching performance of a ROADM. Thus, to tackle this issue, we also propose an interconnection pattern for the …
+
+20. Cooperative resource scheduling for time-sensitive services in an integrated XGS-PON and wi-Fi 6 network - 2022
+None
+
+21. Exploring the benefits of resource disaggregation for service reliability in data centers - 2022
+By overcoming the server box barrier, resource disaggregation in data centers significantly improves resource utilization, which also provides a more cost-efficient approach for resource upgrade and expansion. The advantages of disaggregation have been explored in earlier research to improve the resource efficiency. This paper investigates the potential benefits of disaggregation from the aspect of reliability, which has not been considered before. Resource disaggregation brings a new failure pattern. For example, in a conventional server, the failure of one type of resource leads to the failure of the entire server, so that other types of resources in the same server also become unavailable. After disaggregating, the failure of different types of resources becomes more isolated, so that other resources are still available. In this paper, we model the reliability of a resource allocation request in a server-based or …
+
+22. Wavelength Selective Switch-Based Clos Network: Blocking Theory and Performance Analyses - 2022
+None
+
+23. DS-SOP: An Adaptive Framework for Enhanced Connectivity in mmWave Indoor Networks - 2022
+None
+
+24. Which Band Should be Upgraded First after C+ L Bands: A Comprehensive Case Study - 2022
+None
+
+25. Service Provisioning in WSS-Based All-Optical Data Center Network with Dragonfly Topology - 2022
+None
+
+26. Partially Disaggregated Data Centers: Service Provisioning and Resource Allocation - 2022
+None
+
+27. Impact of Fiber Attenuation and Effective Area on Spectrum Efficiency of Elastic Optical Networks - 2021
+None
+
+28. Cost-minimized virtual elastic optical network provisioning with guaranteed QoS - 2021
+None
+
+29. Frequency-adaptive VDC embedding to minimize energy consumption of data centers - 2021
+None
+
+30. An Approach for Mitigation of Beam Blockage in mmWave-Based Indoor Networks - 2021
+None
+
+31. DC-DLLR: A MAC layer approach for reliable and blockage tolerant mmWave indoor networks - 2021
+None
+
+32. Network coding assisted reliable multi-source multicasting over a multi-hop wireless mesh network - 2021
+None
+
+33. Minimizing inter-core crosstalk jointly in spatial, frequency, and time domains for scheduled lightpath demands in multi-core fiber-based elastic optical network - 2020
+Elastic optical networks (EON) technology in combination with space division multiplexing (SDM) is considered as having the potential to expand the transmission capacity of optical transport networks. However, inter-core crosstalk may cause serious signal impairment in a multi-core fiber (MCF) links. At the same time, scheduled lightpath demands, for which the expected setup and teardown times are known in advance, are considered as an important type of traffic demand for future networks. In this article, we develop approaches to schedule simultaneous lightpaths onto non-adjacent MCF cores so as to reduce inter-core crosstalk between these lightpaths. To this end, we first define a new metric to estimate the inter-core crosstalk jointly considering the spatial, frequency, and time domains. We then tackle the routing, spectrum, core, and time assignment (RSCTA) problem for the MCF-based EON by developing …
+
+34. Blockchain-assisted spectrum trading between elastic virtual optical networks - 2020
+In communication networks, network virtualization can usually provide better capacity utilization and quality of service (QoS) than what can be achieved otherwise. Under this operation, once the capacity of a virtual optical network (VON) is allocated, it will be static for a certain period, for example, a service contract period. However, in reality, the actual traffic demand of a VON always fluctuates, which would lead to a mismatch between the capacity assigned and the actual traffic demand carried. This mismatch would further cause degradation of provisioned network services and inefficiency in assigned network capacity. To overcome this issue, we propose a new scheme, called spectrum trading (ST), to trade spectrum resources between VONs in the context of an elastic optical network (EON). The key idea is to allow different VONs to trade their spectrum resources according to their actual capacity requirement at …
+
+35. A fuzzy logic and artificial neural network-based intelligent controller for a vehicle-to-grid system - 2020
+With a shift toward increasing usage of electric vehicles (EVs) for mobility, the demand for power from the electric grid to recharge EVs is imminent to increase. Vehicle to grid (V2G) is an emerging technique used to integrate EVs with electric grid for meeting this demand and mitigating the impact of EV recharging on the grid. V2G use an extensive communication network to exchange data between various entities, including the grid, charging station (CSs), and the EVs. There are possibilities of errors in the data communicated between entities of the V2G system. These errors, if not addressed properly, would create unwanted disturbances in the electric grid. The V2G controller plays a significant role in the integration of EVs to the grid. It does so by deciding the right amount of power to be exchanged between them based on the inputs communicated by the grid and the CSs. Hence, this article proposes a two-layer …
+
+36. Spectrum trading between virtual optical networks with time-varying traffic in an elastic optical network - 2020
+Network virtualization can improve the utilization of a physical network by enabling the coexistence of multiple virtual networks supporting different services. For an elastic optical network, network virtualization would create a number of virtual optical networks (VONs) embedded in the same physical optical network. Conventionally, each of these VONs is allocated with a fixed amount of network resources. However, the traffic demand on a VON is usually dynamic, varying over time. This leads to a mismatch between the fixed resource assigned and the actual resource required by users. Therefore, some user services may be blocked and the quality of service provided by each VON may be degraded. To overcome the disadvantage caused by this mismatch, we propose a network resource-sharing scheme, called spectrum trading (ST), which trades spectrum resources between different VONs based on their actual …
+
+37. Impact of V2G communication on grid node voltage at charging station in a smart grid scenario - 2020
+This article discusses the impact of realistic communication systems on charging stations at multiple nodes of the subfeeder in an electricity grid distribution system. A vehicle to grid (V2G) system is modeled in this article comprising of the electricity grid, aggregators, controllers, charging station, electric vehicles, and communication channels. Fuzzy logic controllers are at two levels; one at the distribution level and the other at the charging station level. Two types of communication channels are considered between the entities of the V2G network with charging stations at multiple nodes of the electricity grid. The basic access method of the IEEE 802.11 MAC protocol using the distributed coordination function is used by electric vehicles to transmit their data packets to a charging station aggregator. An in-depth analysis of the system is carried out using MATLAB/Simulink environment by varying the bit error rate, timeout …
+
+38. What if AI fails: protection against failure of AI-based QoT prediction - 2020
+None
+
+39. Dynamic model node scheduling algorithm along with OBSP technique to schedule the node in the sensitive cluster region in the WSN - 2020
+None
+
+40. Efficient Multi-Stage Deployment of Ultra-Low Loss Fibers in Elastic Optical Networks - 2020
+None
+
+41. Upgrading nodes with colorless, directionless, and/or contentionless ROADMs in an optical transport network - 2020
+None
+
+42. Efficiently consolidating virtual data centers for time-varying resource demands - 2020
+None
+
+43. PACTA: A portfolio theory based approach for QoS aware resource allocation in mmWave networks - 2020
+None
+
+44. Adaptive clock frequency based energy efficient provisioning for virtual data centers - 2020
+None
+
+45. Availability-guaranteed slice provisioning in wireless-optical broadband access networks supporting mobile edge computing - 2020
+None
+
+46. Network Coding Assisted Reliable Multicasting in Multi-Hop Wireless Networks with Two-Sources - 2020
+None
+
+47. Naïve Bayes classifier-assisted least loaded routing for circuit-switched networks - 2019
+Circuit switching is a de facto switching technology widely employed in today's networks where the conventional approaches to routing have remained unchanged for many years. This paper develops a new and very different methodology, by incorporating a supervised naïve Bayes (NB) classifier, to assist least loaded (LL) routing and to further improve its performance that has remained the best among all the routing approach for the past several decades. Specifically, by iteratively learning the information of historical network snapshots, the NB classifier predicts potential future circuit blocking probability between each node pair if a service connection is established via a certain route between the node pair. The snapshots are taken for each service request arriving at an operating network that keeps on accepting and releasing dynamic service connections and records the number of busy capacity units on each link …
+
+48. Crosstalk-aware counter-propagating core assignment to reduce inter-core crosstalk and capacity wastage in multi-core fiber optical networks - 2019
+Inter-core crosstalk causes serious signal impairment in a multi-core fiber (MCF) optical network. With the extensive usage of data centers, traffic demands become increasingly asymmetric, leading to significant overall capacity wastage if the network is designed with bidirectional links. To alleviate these effects in an MCF optical network, we consider assigning the fiber cores asymmetrically, in a counter-propagating manner. This not only reduces the inter-core crosstalk between counter-propagating fiber cores significantly but also allows the flexibility of assigning different numbers of fiber cores in the opposite directions of a fiber link, thereby avoiding network capacity wastage arising from bidirectional traffic demand asymmetry. To evaluate the benefits of the proposed strategy, we consider the routing, spectrum, and core assignment (RSCA) problem for the MCF optical network. An integer linear programming (ILP …
+
+49. Modeling and performance analysis for pipelined-forwarding MAC protocols for linear wireless sensor networks - 2019
+In PRI-MAC (Pipelined-forwarding, routing-Integrated and effectively-Identifying MAC) protocol, a node gets only one chance to succeed in data transmission scheduling per cycle and on success, a node can transmit only one data packet. On the other hand, in JRAM (joint routing and MAC) protocol, a node gets multiple (k) chances to succeed in data transmission scheduling per cycle and on success, a node can transmit multiple (N') data packets. Therefore, the analytical model proposed for performance analysis of PRI-MAC in a multi-hop linear wireless sensor network (LWSN) is not useful for the performance analysis of JRAM. In this paper, we develop an analytical model for the performance analysis of JRAM in a multi-hop LWSN. Using the model, we evaluate the network performance in terms of packet delivery ratio (PDR), average energy consumption of a sensor node per second and end-to-end …
+
+50. Strategies and benefits of deploying ultralow-loss fiber links in an elastic optical network - 2019
+Superchannels using efficient formats for modulation [e.g., 16-quadrature amplitude modulation (QAM), 64-QAM] and transmitting high data rates (e.g., 400 Gb/s, 1 Tb/s, or even 10 Tb/s) are expected to dominate in future optical networks. Ultralow-loss (ULL) fibers promise greater efficiencies for carrying such superchannels, and the current trend is to deploy ULL fibers for new network links. However, this would generally be done in a staged manner because of budgetary constraints, strategically selecting the links for new ULL fiber deployments so as to maximize network performance improvement at each stage. We address this problem in the context of an elastic optical network and propose approaches for doing this for both static and dynamic traffic demands. For static traffic demands, we formulate the problem using mixed-integer linear-programing models and also propose efficient heuristic algorithms. For …
+
+51. Network coding assisted multicasting in multi-hop wireless networks - 2019
+This paper presents a Network Coding Assisted Multicast Least Cost Anypath Routing (NC-MLCAR) scheme for packet transmission over a multi-hop wireless network. Our objective is to transmit packets efficiently from the source node to the destination set with the help of a selected forwarder set to reduce the expected number of transmissions for efficient network capacity usage. The forwarder set is selected using the earlier Multicast Least Cost Anypath Routing (MLCAR) algorithm. Network coded packets are then transmitted by allocating traffic efficiently between the nodes of the forwarder set while ensuring that each destination receives all the packets. Simulation results are presented for the cases when the packets receptions over different links are considered to be (i) independent and (ii) correlated. The extensive simulation results presented in the paper are compared with the corresponding MLCAR …
+
+52. Efficient and green embedding of virtual data centers with mixture of unicast and multicast services - 2019
+The improved efficiency achieved by virtualizing data centers (DCs) has been well established. In this paper, we propose a mixed Virtual Data Center (VDC) capable of supporting both unicast and multicast services. We provide a new method to realize the embedding of these VDCs. We also provide a Mixed Integer Linear Programming (MILP) formulation and a scalable heuristic algorithm for efficiently embedding its demands. Numerical results show that mixed VDC embedding supporting both unicast and multicast services performs significantly better than existing embedding methods in terms of system cost, power consumption, link capacity utilization, and VDC acceptance ratio.
+
+53. Spectrum trading between virtual optical networks embedded in an elastic optical network - 2019
+We propose a spectrum trading (ST) scheme to trade spectra between virtual optical networks embedded in an elastic optical network (EON) for efficient spectrum utilization and better client quality of service. An integer linear programming (ILP) model and a heuristic algorithm are developed. Results show the effectiveness of the proposed scheme.
+
+54. Impact of communication systems on grid node voltage and operation of a vehicle‐to‐grid controller in a smart‐grid scenario - 2019
+The impact of communication systems between different entities of a vehicle‐to‐grid (V2G) system, consisting of a controller, aggregator, multiple charging stations (MCS) and electric vehicles (EVs), affecting the distribution node voltage is discussed. The controller decides the amount of power to be exchanged between MCS and the grid. EVs either get charged or discharged at the charging station (CS) based on peak load or off‐peak load hours. Based on the distance between the entities of the V2G, different communication technologies are proposed and, the respective communication channels are modelled. The impact of non‐ideal communication systems on the node voltage at the test node where the CS is connected has been studied and, different regions of operation of the controller are determined. Changes in the controller are introduced to reduce the impact of bit error rate in data transmission using …
+
+55. Distributed backup resource allocation in fiber-wireless (FiWi) access networks supporting mobile edge computing - 2019
+None
+
+56. Exploiting efficiency of ultra-dense wavelength switched network for carrying metro network traffic - 2019
+None
+
+57. Performance evaluation of evs mobility using sumo and ns2 in a real-time v2g scenario - 2019
+None
+
+58. Optimising residual energy transmission head with SNR value in multiple clusters - 2019
+None
+
+59. Impact of Communication Network on V2G System in a Smart Grid Scenario - 2019
+None
+
+60. Cooperative communication under nonlinear energy harvesting model and interference signal - 2019
+None
+
+61. Exploiting Idle Capacity in Optical Networks to Pre-Plan as Many Additional Paths as Possible for Enhancing Service Connection Availability - 2019
+None
+
+62. Impact of sampling in the operation of vehicle to grid and its mitigation - 2018
+Governments across the world have plans for a deep penetration of electric vehicles in the near future, for the transportation sector. This will require robust communications between the entities of the charging infrastructure, viz., the grid, aggregators, controllers, charging stations (CSs) and the electric vehicles (EVs). For analyzing the vehicle-to-grid and grid-to-vehicle infrastructure, it is important to model the electrical as well as the communication network together. This will help in determining the influences of the communication network in the operation of the controller and grid. In this paper, a distribution system with five CSs and sampled data transmission between the entities are modeled and simulated in MATLAB Simulink for understanding the potential impact of the networked communication system on the grid operation. A fuzzy-logic controller (FLC) is used in the model. The performance of the FLC in terms …
+
+63. Joint replica server placement, content caching, and request load assignment in content delivery networks - 2018
+With the explosive growth of information and communication technology and its services, some popular Websites currently generate an enormous amount of Internet traffic. A content delivery network (CDN) would then become imperative for supporting such services efficiently. In this paper, we propose joint optimizing approaches for replica server placement, content caching in selected servers, and content request load assignment among the servers, aiming to minimize the ratio of unserved content request load when the network resources and server capacity are both limited. For this, we develop a mixed integer linear programming (MILP) optimization model. To mitigate the computational complexity of the MILP model, we further decompose the optimization problem into three sub-problems, including: 1) choosing the replica server nodes optimally; 2) deciding the content items to be cached in the replica servers …
+
+64. Zone-based cooperative content caching and delivery for radio access network with mobile edge computing - 2018
+Mobile edge computing (MEC) is a promising solution to meet the latency requirement for delay-sensitive services in a 5G radio access network (RAN). Its key idea is to deploy computing and storage capacities at the edge of the RAN to quickly provision content and processing capacities as required by the users. Efficient content caching and delivery are key issues to ensure the success of this technique. This paper proposes a zone-based cooperative content caching and delivery scheme for a RAN supporting MEC (MEC-RAN), where the RAN is modelled as a zone and is further sub-divided into multiple sub-zones. Content items are cooperatively cached and delivered among multiple sub-zones. The caching problem is formulated as a mixed integer linear programming model. We also develop a heuristic cooperative content caching strategy to decide the content items to be cached in each MEC server. This …
+
+65. Benefits of unidirectional design based on decoupled transmitters and receivers in tackling traffic asymmetry for elastic optical networks - 2018
+We consider a unidirectional design approach to tackle the traffic asymmetry in an elastic optical network (EON). We decouple a bidirectional transponder into a pair of separate unidirectional transmitters and unidirectional receivers, and consider different multi-flow transmitters that use either an array of laser diodes or a broadband laser source with filters to generate multiple sub-carriers. To evaluate the benefit of this unidirectional design, we have considered the routing and spectrum allocation optimization problem for the EON. An integer linear programming model and an efficient heuristic algorithm based on spectrum window planes have been developed. Simulation results show that the proposed unidirectional design approach can significantly improve capacity utilization and minimize network cost compared to one based on bidirectional symmetric traffic flows. It is also efficient for network scenarios with …
+
+66. Energy-saving in IP over WDM networks by putting protection router cards to sleep - 2018
+Energy saving is of great interest in current information and communications technology applications. In this paper, we consider energy saving for an IP over wavelength division multiplexed (WDM) optical network by putting protection router cards to sleep when the network is operating normally. Doing this requires that we must jointly consider several aspects. These are multi-layer traffic grooming, network protection, and the assignment of router ports/cards for working and protection optical channels. By employing different network protection techniques and the multi-hop traffic grooming strategy, we develop mixed integer linear programming (MILP) models for the optimization problem by considering five different router port assignment schemes. These aim to minimize the total power consumption of the whole network. Subsequently, to tackle the computational difficulty of the MILP models, we propose an efficient …
+
+67. MixCo: Optimal cooperative caching for mobile edge computing in fiber-wireless access networks - 2018
+We consider the optimal content caching problem among Mobile Edge Computing (MEC) servers in a Fiber-Wireless (FiWi) access network, to minimize the average content delivery latency subject to limited storage and computing capacity of each server. An MILP model and a Mix-Cooperative (MixCo) caching strategy are developed for efficient performance.
+
+68. Assigning counter-propagating cores in multi-core fiber optical networks to suppress inter-core crosstalk and inefficiency due to bi-directional traffic asymmetry - 2018
+None
+
+69. Counter-propagating core assignment in multi-core fiber optical networks to reduce inter-core crosstalk and capacity wastage - 2018
+None
+
+70. Which features most impact: prediction of ANN-based lightpath quality of transmission? - 2018
+None
+
+71. Upgrading links with ultra-low loss fibers in a survivable elastic optical network - 2018
+None
+
+72. Maximizing availability-weighted slice capacity for sliceable wireless-optical broadband access networks - 2018
+None
+
+73. Consolidating virtual data centers with negative load correlations to alleviate performance degradation due to load burstiness - 2018
+None
+
+74. Machine Learning-Assisted Least Loaded Routing to Improve Performance of Circuit-Switched Networks - 2018
+None
+
+75. Scheduling strategies for network link upgradation with ultra low loss fibers - 2018
+None
+
+76. A joint routing and MAC protocol for transmission delay reduction in many-to-one communication paradigm for wireless sensor networks - 2017
+We propose a joint routing and medium access control (MAC) protocol, named as JRAM, for reducing transmission delays in a many-to-one communication paradigm for wireless sensor networks (WSNs). Due to the wide variety of WSN applications, there is a need for protocol solutions optimized for specific application classes. JRAM is proposed for WSNs deployed for monitoring multiple events in the same geographic region which require prompt detection and response. In existing contention-based synchronous MAC protocols designed for this, a node gets only one chance to succeed in data transmission scheduling per cycle, and a sink can also only receive data packets from at most one node in a cycle. Therefore, endto-end transmission delay (E2ETD) and packet delivery ratio (PDR) of these protocols drastically degrade with the increase in event occurrence rate (EOR). In contrast, JRAM proposes a novel …
+
+77. Migration from fixed to flexible grid optical networks with sub-band virtual concatenation - 2017
+A novel strategy is presented to operate a mixed fixed/flexible grid optical network which may be used to gradually migrate from a fixed to a flexible mode of operation. Routing and spectrum allocation (RSA) in an optical network where fixed and flexible grids co-exist using a multi-path sub-band virtual concatenation (VCAT) or split spectrum (SS) technique is considered. Mixed integer linear programming models and an efficient heuristic algorithm based on spectrum window planes are proposed for the RSA optimization. The results obtained for the static traffic demand indicate that it is operationally more convenient to use the multi-path VCAT only by itself in a mixed grid optical network to guarantee performance comparable to that of the joint multi-path and single-path VCAT case. Network performance is also evaluated in terms of bandwidth blocking probability (BBP) under a dynamic traffic demand. Simulation …
+
+78. A Low Delay Cross-Layer MAC Protocol for k-Covered Event Driven Wireless Sensor Networks - 2017
+In general, in k-covered wireless sensor networks (WSNs), whenever an event occurs, M (≥k) sensor nodes, lying in the communication range (CR) of each other, have data packets to send in the same cycle. In the existing crosslayer contention-based synchronous MAC protocols, very few nodes can forward their data packet in the same cycle when M nodes, with data packets to send, lie in the CR of one another. This results in a drastic increase in the end-to-end transmission delay (E2ETD) with increasing M. In this article, we propose a low delay, cross-layer contention-based synchronous MAC (LDCMAC) protocol for event driven WSNs. LDMAC increases the number of nodes that can forward their data packet in the same cycle when M nodes, with data packet to send, lie in the CR of one another. We evaluate LDCMAC through NS-2.35 simulations and compare its performance with the CL-MAC protocol …
+
+79. Migrating elastic optical networks from standard single-mode fibers to ultra-low loss fibers: Strategies and benefits - 2017
+We consider the replacement of standard single-mode fibers with ultra-low loss (ULL) fibers in an elastic optical network (EON). Different replacement strategies are proposed and compared in terms of bandwidth blocking probability. Simulations show that the OSNR-blocking-based strategy is the most efficient and that there is a saturation trend between the attenuation coefficient of ULL fibers and blocking performance improvement.
+
+80. Mixed channel traffic grooming for IP over EON with SBPP-based cross-layer protection - 2017
+We consider mixed channel traffic grooming in a shared backup path protected IP over elastic optical network (EON) and develop an auxiliary graph-based heuristic algorithm to share common optical channels between working and protection IP traffic flows. We compare integrated protection (i.e., cross-layer protection capacity sharing) with nonintegrated protection (i.e., overlay protection) to show how cross-layer sharing improves capacity utilization. Using simulations, network performance is evaluated in terms of the maximum number of frequency slots (FSs) used, the spare capacity redundancy, and the number of transponders required for a static traffic demand. For a dynamic traffic demand, the bandwidth blocking probability (BBP) is also obtained. It is found that the proposed mixed channel traffic grooming scheme can reduce both the BBP and the number of transponders required while improving the spectral …
+
+81. A contention based routing enhanced MAC protocol for transmission delay reduction in a multi-hop WSN - 2017
+In most of wireless sensor network (WSN) applications, energy-efficiency and low end-to-end transmission delay (E2ETD) are essential requirements. This paper presents a contention based routing enhanced MAC protocol, named as CR-MAC, for E2ETD reduction in a multi-hop WSN. CR-MAC reduces E2ETD by optimizing the time interval between the successively sent data packets of a node in a scheduled flow and using a small size control packet to send the request for data transmission. Reduction in the size of control packet also reduces the energy-consumption in the overhearing. We compare the performance of CR-MAC with [4] through ns-2.35 simulations. Results show that CR-MAC outperforms [4] in terms of average energy consumption, E2ETD, and packet delivery ratio.
+
+82. Employ unidirectional design to alleviate impact of traffic asymmetry for elastic optical networks - 2017
+None
+
+83. Mixed channel traffic grooming in shared backup path protected IP over elastic optical network - 2017
+None
+
+84. A dynamic approach for channel time allocation in IEEE 802.15. 3 based parent-child piconet model - 2017
+None
+
+85. Energy saving in SBPP-based IP over WDM networks with protection router card sleeping - 2017
+None
+
+86. Signal to noise ratio based clustering approach for energy efficient WSN - 2017
+None
+
+87. Caching Strategies for Storage-Shared Content Delivery Networks - 2017
+None
+
+88. Shocked Plagioclase and Iron Oxide Glass from Lonar Impact Crater (Maharashtra, India) - 2017
+None
+
+89. Survivable elastic optical networks: survey and perspective - 2016
+Elastic optical networks (EONs) have been receiving extensive attention because of their inherent flexibility and the efficiency with which they allocate fiber-bandwidth. For an EON, survivability is of crucial importance because of the very high bandwidth that it carries on each optical channel. In this article, we review the current state of the art of survivable EONs which reviews the literature to summarize the following aspects: (a) spectrum resource sharing among backup lightpaths, (b) sharing of high-speed optical transponders, (c) effect of spectrum conversion, (d) bandwidth squeezed restoration (BSR), (e) joint restoration by multiple sub-band optical channels, (f) multi-layer survivability, and (g) energy efficiency. Apart from a summary on the current research status, we also discuss open research issues which are important to survivable EONs from the perspectives of (a) impact of spectrum conversion, (b …
+
+90. Energy efficiency aware load distribution and electricity cost volatility control for cloud service providers - 2016
+This paper consider the case of a cloud service provider (CSP) who owns multiple geographically distributed data centers, with collocated sources of renewable energy. We investigate load distribution strategies to minimize electricity cost and increase renewable incorporation subject to compliance with service level agreement (SLA), considering the adverse effects of switching the servers. Our work provides some insights on the performance of different algorithms for geographical load balancing (GLB) in terms of electricity cost, renewable energy integration and number of server switching. Our proposed strategies incorporate a new way of capturing the server switching cost. We show that, instead of modeling switching cost through a linear function, the proposed technique of modeling switching cost through variance achieves a better tradeoff between some important parameters. Since the three major input …
+
+91. Cost-minimized design for TWDM-PON-based 5G mobile backhaul networks - 2016
+Dense deployment of small cells would be required to provide for high capacity and universal access to future fifth-generation (5G) mobile networks. However, this would require cost-effective and reliable backhaul connectivity between these small cells. Time and wavelength division multiplexed passive optical networks (TWDM-PONs) are considered a promising choice for this purpose. In this paper, we consider the cost-minimized design of a backhaul network for a 5G mobile system using TWDM-PON. For this, equipment and deployment costs are considered, and the design is based on satisfying network constraints such as the maximum number of subscribers per optical line terminal and the maximum number of subscribers per wavelength. Considering the fact that many small cell base stations are dispersed over an extensive wireless coverage, a K-means clustering-based algorithm is proposed for the …
+
+92. Multi-objective topology planning for microwave-based wireless backhaul networks - 2016
+Wireless backhaul networks provide vital infrastructure support for large public and private networks, and their efficient design is essential for smoothly handling the rapid growth of the Internet traffic. For its efficient capacity utilization, a well-planned topology would be crucial for such networks. Existing studies on planning for wireless backhaul network topologies have mostly focused on a single parameter or on a few performance aspects, e.g., to minimize the network cost or to maximize the network reliability. It would, however, be more realistic to consider multiple performance aspects jointly, subject to a variety of system constraints for a microwave-based wireless backhaul network, as proposed in this paper. For the optimization, we formulate a general cost that incorporates the various performance aspects considered, based on different weight factors. We develop an integer linear programming (ILP) optimization …
+
+93. Energy efficient cloud service pricing: A two-timescale optimization approach - 2016
+This paper considers the scenario of a cloud service market where several Cloud Service Providers (CSP) are in operation and are competing against each other to attract and serve the demands generated by the customers. The competition arises from the fact that the customers (the individuals or organizations) who generate demand for services in the market rationally choose the CSP which offers good quality of services at a lower price. For pricing the services offered by the CSPs under this framework, we provide an analytical framework by considering the operational cost incurred by the CSP to service the given demand, the quality of service (QoS) offered and the prices other CSPs are charging. The pricing strategy we propose strikes a reasonable balance between charging too little which would result in irrationally low business profit and charging too much which would result in customer loss and …
+
+94. Routing and spectrum assignment for dual failure path protected elastic optical networks - 2016
+We present the design of a dual failure protected elastic optical network (EON) for different sharing capabilities of protection lightpaths. Routing and spectrum assignment (RSA) is considered for such a network so as to minimize the maximum number of frequency slots (FSs) used. The key principles for protection resource sharing among the first and the second protection lightpaths are identified for dedicated 1:1:1, mixed 1:1:1, 1+1:1, and 1+1+1 protection. Both integer linear programming (ILP) models and spectrum window plane (SWP)-based heuristic algorithms are proposed for RSA in dual failure protected EONs. Simulation results indicate that, apart from being efficient, the proposed SWP-based heuristic algorithm not only performs close to the ILP model but also does much better than a benchmark adaptive routing algorithm. We find that 1:1:1 protection technique performs better in terms of the maximum …
+
+95. A novel framework to enhance the performance of contention-based synchronous MAC protocols - 2016
+In this paper, we propose a novel framework to improve the end-to-end transmission delay (E2ETD) and packet delivery ratio (PDR) of existing contention-based synchronous MAC protocols designed for wireless sensor networks, without increasing the duty cycle. This is achieved by partitioning the n deployed sensor nodes into k disjoint sets, which are of almost equal size. It then suitably modifies the cycle structure followed by the existing contention-based synchronous MAC protocols by mapping the data transmission process of k existing cycles into one restructured cycle. To evaluate the performance of this approach, we implement RMAC, PRMAC, and CLMAC protocols in the proposed framework using ns2.35 simulator. Results indicate that our scalable framework reduces the E2ETD and increases the PDR significantly at the cost of a very small increase in average energy consumption.
+
+96. Mitigation of beam blocking in mmWave indoor WPAN using dynamic control delegation based approach - 2016
+The mmWave band of frequencies suffer from very poor diffraction capabilities which results in their high susceptibility towards beam blocking. Thus, the devices connected on a mmWave based communication network can communicate only through their line-of-sight (LoS) neighbors which makes it difficult for their deployment in indoor environments (e.g. residential households, offices etc). Additionally, the presence of non-stationery member nodes can create further difficulties in maintaining stable LoS links. In this paper, we discuss a novel approach involving dynamic control delegation (DCD) by a piconet controller to mitigate the problem of beam blocking. We propose some delegation based techniques which can be used by a piconet controller to address the problems of beam blocking and link instability to a significant extent. Finally, we validate our claim by evaluating the performance of the proposed …
+
+97. Analysis of packet loss in next generation networks using large derivation - 2016
+The Next Generation Wireless Networks is a packet based IP network that supports anytime, anywhere service and provides Always Best Connected (ABC) state. Most of the aggregated traffic in IP based network is real time multimedia and this would not guarantee best effort of service, so the performance gets degraded in the networks. Main feature of ubiquitous NGN wireless communication system is seamless mobility. Mobile terminal in the network will be roaming in the vicinity of the heterogeneous wireless network. According to the Received Signal Strength (RSS) the mobile terminal in the network will handover from one technology to another. As there is frequent handoff from one technology to another can results in performance degradation. If enough resource is not available packet will be blocked or dropped in the network this can degrade the performance in the network. It is desired to have a resource allocation scheme which can satisfy the QoS constraints while maximizing the utilization of the network resources with minimizing the packet loss and delay in the network. The mobile terminal in the network carry integrated real time multimedia data (eg: Video streaming, videoconferencing, IPTV and on-line gaming) and this type of service should guarantee high Quality of Service (QoS) with minimum delay, packet loss, and jitters. Traffic model can be used as input to analysis resource allocation strategies. Traffic in the network can be modeled in such a way that it should allocate resource efficiently and then reduce queuing delay, packet loss and jitters in the NGN environment to meet the QoS given by the Service Level Agreement (SLA …
+
+98. A low delay cross-layer contention based synchronous MAC protocol for a multi-hop WSN - 2016
+Recently designed cross-layer contention based synchronous MAC protocols like the PRMAC protocol, for wireless sensor networks (WSNs) enable a node to schedule multi-hop transmission of multiple data packets in a cycle. However, these systems accommodate both the request-to-send data process and the confirmation-to-send data process in the same data transmission scheduling window (i.e. data window). This reduces the length of the multi-hop flow setup in the data window. In a multi-hop scenario, this degrades both the packet delivery ratio (PDR) and the end-to-end transmission delay (E2ETD). In this paper, we propose a cross-layer contention based synchronous MAC protocol, which accommodates the request-to-send data process in the data window and the confirmation-to-send data process in the sleep window for increased efficiency. We evaluate our proposed protocol through ns-2.35 …
+
+99. Spectrally efficient operation of mixed fixed/flexible-grid optical networks with sub-band virtual concatenation - 2016
+None
+
+100. Routing and spectrum assignment for 1+ 1: 1 lightpath services in elastic optical networks - 2016
+None
+
+101. Hybrid fiber and microwave restoration for enhancing availability of fiber-wireless integrated networks - 2016
+None
+
+102. Energy aware pricing in a three-tiered cloud service market - 2016
+None
+
+103. Lightpath blocking analysis for optical networks with ROADM intra-node add-drop contention. - 2016
+None
+
+104. Multicasting in wireless networks with correlated links - 2016
+None
+
+105. Regenerator sharing jointly with spectrum and modulation format conversion in SBPP-BASED elastic optical networks - 2016
+None
+
+106. Optimal replica servers placement for content delivery networks - 2016
+None
+
+107. A waveband routing method in Elastic Optical Networks based on the Tandem Structure Hierarchical Optical Cross-Connect - 2016
+None
+
+108. A Cross-layer Contention Based Synchronous MAC Protocol for Transmission Delay Reduction in Multi-Hop WSNs - 2016
+None
+
+109. TCP delay-friendliness - 2016
+None
+
+110. 节点内部分/插端口具有阻塞性的光网络光路阻塞率分析 - 2016
+None
+
+111. Using Maximum Entropy Principle for Output - 2016
+None
+
+112. Lightpath blocking analysis for optical networks with ROADM intra-node add-drop contention - 2016
+None
+
+113. Distance adaptive dynamic routing and spectrum allocation in elastic optical networks with shared backup path protection - 2015
+This paper considers distance adaptive dynamic routing and spectrum assignment (RSA) for elastic optical networks with shared backup path protection (SBPP). Efficient heuristic algorithms based on spectrum window planes are proposed for implementing distance and modulation format adaptive RSA so as to maximize spare capacity sharing among multiple protection lightpaths. A differentiated sharable frequency slot cost was also defined for the first time to more efficiently share protection resource. Network performance is evaluated in terms of bandwidth blocking probability (BBP) through simulations. The proposed SBPP technique is effective in reducing BBP and improving spectral efficiency compared to conventional SBPP schemes and 1+1 path protection. The impact of transponder tunability on bandwidth blocking performance is also evaluated to show that a limited tuning range is sufficient to achieve a …
+
+114. Demand response in data centers through energy-efficient scheduling and simple incentivization - 2015
+To cope with the explosive growth of the Internet, data centers, which primarily serve as its cloud computing infrastructures, are also growing at a fast rate. These data centers typically serve both real-time delay-sensitive jobs and deferrable but deadline-oriented jobs. They exhibit two fundamental properties, which make them particularly suitable for implementing a Demand Response (DR) strategy. First, they are big consumers of electricity, and second, they deal with time-flexible loads. We consider a data center where the various diverse services are deployed in different tiers to capture some of the intricacies of real operations focusing on deferrable jobs. To tackle resource provisioning for deferrable jobs, we leverage Receding Horizon Control (RHC) based scheduling. We formulate and solve the optimal server provisioning problem in two different ways, namely, minimization of operational cost and joint …
+
+115. A multipath variant of SCTP with optimized flow division extension - 2015
+In the literature, Multipath Stream Control Transmission Protocol (MPSCTP) has been proposed as a multipath variant of Stream Control Transmission Protocol (SCTP). Unlike SCTP, MPSCTP uses the multiple available paths between the source and the destination in concurrent fashion using the multihoming feature of SCTP. MPSCTP in its original form implicitly assumes no acknowledgment loss. In this work, a modified algorithm for MPSCTP is proposed to mitigate this limitation and its performance is compared with Concurrent Multipath Transfer (CMT) using ns2 based simulation. A new path selection strategy for data transmission is incorporated and its results are compared with the RTX-CWND strategy proposed in the literature. This paper also presents a heuristic to implement delay insensitive optimization. The performance of this optimization for MPSCTP has been studied using ns2 based simulations. We …
+
+116. Energy efficient scheduling in data centers - 2015
+The explosive growth of the Internet has resulted in tremendous growth of the data centers which primarily serve as the cloud computing backbones. We consider the practical architecture of a real data center where different types of services are implemented in different tiers. We use Model Predictive Control (MPC) based energy aware scheduling algorithms to address the resource allocation problem for deferrable jobs in such a tiered architecture, where the switching cost is accounted for in two different ways. We compare the performance of these two algorithms with respect to the important performance parameters of cumulative electricity cost, cumulative renewable usage and cumulative number of switchings. We discuss the results to provide some insightful understanding on these issues.
+
+117. Energy efficient and bandwidth guaranteed design for optical network with mixed sleep-enabled and non-sleep-enabled router cards - 2015
+With rapidly growing Internet traffic, energy efficient operation of IP over WDM networks with sleep enabled routers is of increasing interest. However, for network security and to provide guaranteed communications, it would still be desirable to ensure that a certain fraction of the bandwidth is assured through routers which cannot be put to sleep using software control. This paper presents an energy-minimized IP over WDM network using a mixture of sleep-enabled and non-sleep-enabled router cards where a certain percentage of the network bandwidth is guaranteed to the offered traffic. Such a mixed configuration is also motivated by the fact that there will always be some traffic demand between each node pair at any time even though the traffic between node pairs may fluctuate to very low levels. This implies a need for some non-sleeping router cards at any time. Another motivation for this mixed configuration is …
+
+118. Benefit of adaptive FEC in shared backup path protected elastic optical network - 2015
+None
+
+119. Multicasting in wireless neworks using rateless codes and opportunistic routing - 2015
+None
+
+120. Energy-aware pricing for cloud services - 2015
+None
+
+121. Network routing for streaming applications using systematic rateless codes - 2015
+None
+
+122. Link-state routing protocol for flow optimization in delay-constrained queueing networks - 2015
+None
+
+123. Optimal design for shared backup path protected elastic optical networks under single-link failure - 2014
+This paper considers the network protection technique of shared backup path protection (SBPP) in comparison with 1 + 1 path protection for elastic optical networks. We develop integer linear programming (ILP) models to minimize both the required spare capacity and the maximum number of link frequency slots (FSs) used. We consider transponder tunability that corresponds to the condition of whether or not the same set of FSs is required to be used for both the working and protection lightpaths. We also apply the bandwidth squeezed restoration technique to obtain the maximum restoration levels for the affected service flows, subject to a limited FS capacity on each fiber link. Our studies show that the proposed SBPP technique requires much lower spare capacity compared to the traditional 1 + 1 path protection approach. The flexibility of allowing the working and protection lightpaths to use different sets of FSs (i …
+
+124. Span-restorable elastic optical networks under different spectrum conversion capabilities - 2014
+This paper deals with the design of a span-restorable (SR) elastic optical network under different spectrum conversion capabilities, including 1) no spectrum conversion, 2) partial spectrum conversion, and 3) full spectrum conversion. We develop Integer Linear Programming (ILP) models to minimize both the required spare capacity and the maximum number of link frequency slots used for each of the three spectrum conversion cases. We also consider using the Bandwidth Squeezed Restoration (BSR) technique to obtain the maximal restoration levels for the affected service flows, subject to the limited frequency slot capacity on each fiber link. Our studies show that the spectrum conversion capability significantly improves spare capacity efficiency for an elastic optical network.
+
+125. Adaptive FEC-based lightpath routing and wavelength assignment in WDM optical networks - 2014
+Forward error correction (FEC) has been widely used in optical communication systems to compensate for the degradation of the received optical signal to noise ratio (OSNR). Current optical networks tend to use the same type of FEC for all the lightpaths even though lightpaths with higher OSNRs can be established by FECs with lower overhead. This paper proposes an adaptive approach to choose the most efficient FECs for different lightpaths based on their individual OSNRs. An Integer Linear Programming (ILP) model and a simple waveplane-based heuristic algorithm considering shuffled lightpath demand sequences are developed to tackle the routing and wavelength assignment (RWA) problem. The simulation results indicate that compared to the non-adaptive case, using the proposed adaptive FEC selection scheme can significantly reduce the required FEC overhead. Apart from being far more tractable …
+
+126. “Follow the sun, follow the wind” lightpath virtual topology reconfiguration in IP over WDM network - 2014
+Green House Gas (GHG) emissions mainly come from the consumption of non-renewable energy. To reduce GHG emissions of IP over WDM networks, we propose to maximize renewable energy usage at each network node location so as to reduce the consumption of non-renewable energy. A “Follow the Sun, Follow the Wind” strategy is proposed for the IP over WDM network to periodically reconfigure the lightpath virtual topology to enable more lightpaths to start or end at nodes where maximum renewable energy is available. We develop a mixed integer linear programming model to design new lightpath virtual topologies. Since the computational complexity of the optimization model is excessive, we also propose a simple but efficient heuristic algorithm to tackle this. Our results indicate that a network operated in this way can significantly reduce non-renewable energy consumption as illustrated in the example …
+
+127. Adaptive FEC selection for lightpaths in elastic optical networks - 2014
+We propose a new approach to adaptively select FEC types for lightpaths in elastic optical networks. An ILP model and a spectrum-window-based heuristic algorithm are developed to analyze its performance. The proposed FEC selection scheme can achieve good performance with low FEC overhead.
+
+128. Network routing over erasure channels using systematic rateless codes - 2014
+None
+
+129. Message Forwarding in Sparsely Connected Wireless Networks Using Rateless Codes - 2014
+None
+
+130. 2014 Index IEEE Transactions on Reliability Vol. 63 - 2014
+None
+
+131. Optimal Time-dependent Spectrum Sharing between Neighboring Channels in Elastic Optical Networks - 2014
+None
+
+132. An introduction to queueing systems - 2013
+Queueing is an aspect of modern life that we encounter at every step in our daily activities. Whether it happens at the checkout counter in the supermarket or in accessing the Internet, the basic phenomenon of queueing arises whenever a shared facility needs to be accessed for service by a] arge number of jobs or customers. The study of queueing is important as it gravides both a theoretical background to the kind of service that we may expect from such a facility and the way in which the facility itself may be designed to provide some specified grade of service to its customers. Our study of queueing was basically motivated by its use in the study of communication systems and computer networks. The various computers, routers and switches in such a network may be modelled as individual queues. The whole system may itself be modelled as a queueing network providing the required service to the messages, packets or cells that need to be carried. Application of queueing theory provides the theoretical framework for the design and study of such networks. The purpose of this book is to support a course on queueing systems at the senior undergraduate or graduate Ievels. Such a course would then provide the theoretical background on which a subsequent course on the performance modeHing and analysis of computer networks may be based.
+
+133. An implementation of Min–Max optimization for multipath SCTP through bandwidth estimation based resource pooling technique - 2013
+Multipath transport protocols like Stream Control Transmission Protocol (SCTP) and Multipath TCP (MPTCP) have been introduced in the past as alternatives to traditional single path transport protocols like TCP and UDP. Various approaches to divide the flow on multiple paths have also been proposed in the literature. In this work, we show that the bandwidth estimation based resource pooling (BERP) congestion control algorithm is a practical implementation of the Min–Max optimization approach for flow division and verify this through ns-2 based simulations.
+
+134. Applying ring cover technique to elastic optical networks - 2013
+We apply the ring cover technique to elastic optical networks. We develop an Integer Linear Programming (ILP) model to minimize the required protection capacity and the overall link spectra used in the entire network.
+
+135. Green IP over WDM optical network design for mixed line rates and limited transmission reaches - 2013
+This paper considers mixed-line-rate (MLR) technology to design a green IP over WDM optical network. We develop a node-arc-based mixed integer linear programming (MILP) optimization model and propose a simple heuristic to configure the mixed-line-rate network. Results indicate that for the test scenarios considered, more than 48% power consumption can be saved compared with the single-line-rate (SLR) case.
+
+136. Constrained light-tree design for WDM mesh networks with multicast traffic grooming - 2013
+None
+
+137. Energy-efficient opaque IP over WDM networks with survivability and security constraints - 2013
+Mixed deployment of sleep-enabled and non-sleep-enabled router cards is suggested at each node of an IP over WDM network along with survivability and security constraints. This is used to design a green network which is observed to reduce energy consumption (by up to 28% for an example network) compared to a network where the router cards are not sleep-enabled.
+
+138. Adaptive lightpath FEC selection in an optical network - 2013
+None
+
+139. Optimal time-dependent spectrum sharing between neighboring elastic optical channels over a single link - 2013
+None
+
+140. Design for ‘follow the sun, follow the wind’IP over WDM networks - 2013
+None
+
+141. Power and mobility aware routing in wireless ad hoc networks - 2012
+Nodes in a wireless ad hoc network have to support routing using their limited battery power resource. The routing protocol involved should use battery power efficiently for good system performance. For systems where node location information is available, this study proposes an on-demand routing protocol for choosing a route based on maximising the minimum node battery power and minimising the total transmission power required to reach the destination. In addition, the routing protocol proposed is able to restrict control packet flooding during route discovery and pre-empt link breakages because of node mobility. A power and mobility aware optimisation problem is first formulated. For an actual practical implementation, we present a heuristic scheme, Power and Mobility Aware Routing or PMAR protocol. PMAR performs almost as well as the proposed optimisation approach in static networks. In mobile …
+
+142. Multicast traffic grooming in tap-and-continue WDM mesh networks - 2012
+Multicast applications are expected to be major drivers of Internet traffic growth. As most multicast connections require much lower bandwidth than the capacity offered by a wavelength, multicast traffic grooming is needed to efficiently use network resources. Recent research on multicast grooming has focused on light-trees because of their natural advantage for multicast traffic. However, using light-trees may lead to some serious negative side effects because of light splitting. In this paper, we investigate the multicast traffic grooming problem in tap-and-continue (TaC) networks, where a node can tap a small amount of incoming optical power for the local station while forwarding the remainder to an output. We first propose a simple and efficient node architecture with the TaC mechanism. We use this in an integer linear programming (ILP) formulation with the objective of minimizing the network cost in terms of the …
+
+143. Leaking strategy for multicast traffic grooming in WDM mesh networks - 2012
+The ever-increasing popularity and traffic volume of multicast applications motivates the need for development of methodologies for traffic management and network design that especially cater for multicast traffic. Addressing the disparity between the bandwidth offered by a wavelength and the bandwidth required by a single connection is a key challenge in the efficient usage of any wavelength-division multiplexing (WDM) network. This problem is also relevant to WDM networks that support multicast traffic and can be mitigated by multicast traffic grooming. This paper considers multicast traffic grooming with a leaking strategy where a light-tree may deliver the traffic of a multicast connection to nodes that are not in the destination set of the connection. This leaking strategy improves the sharing of light-trees and add/drop ports, leading to lower blocking ratios. Two multicast traffic grooming algorithms with leaking …
+
+144. Multicast least cost anypath routing: Route cost calculations and forwarding - 2012
+A wireless network may route packets more efficiently if forwarding decisions are taken based on which downstream nodes actually receive packets from the source or intermediate nodes. This is used for unicast transmissions in Opportunistic Routing (OR) and Least Cost Anypath Routing (LCAR). Here, we extend the LCAR approach to support multicasting from one source to multiple destinations. Multicast cost metrics are calculated and used to determine the forwarder set and the forwarding strategy so that packets can reach all the destination nodes efficiently. Semi-optimal and simpler heuristic approaches are suggested both for calculating the multicast route costs to the destination set and all its subsets and for the packet transmission and forwarding strategy.
+
+145. MPSCTP: A multipath variant of SCTP and its performance comparison with other multipath protocols - 2012
+Multipath protocols have great potential to improve error resilience and utilization of scarce network resources. In 2000, IETF introduced Stream Control Transmission Protocol (SCTP) for multihomed transport. Concurrent Multipath Transfer (CMT) and Multipath SCTP (MPSCTP) were proposed as extensions of SCTP to support concurrent usage of available paths. Our original MPSCTP proposal assumes that all the paths between the source and the destination are disjoint and there is no acknowledgement loss in the reverse direction. In this paper we propose a generalized version of the MPSCTP protocol where these assumptions are relaxed. We also present a comparative study of the performance of MPSCTP with CMT and MPTCP, a multipath variant of TCP, in different network scenarios using ns-2 based simulations.
+
+146. Multicast anypath routing in wireless networks - 2012
+None
+
+147. Network coding design for multi-source multi-relay cooperative wireless networks - 2012
+None
+
+148. Mechanical Discontinuity and its Implication in the Morphology of Impact Crater: AN Experimental Investigation - 2012
+None
+
+149. Design of WDM networks with multicast traffic grooming - 2011
+With the growing popularity of multicast applications and the recognition of the potential of achievable efficiency gain of traffic grooming, we face the challenge of optimizing the design of WDM networks with multicast traffic grooming. As higher layer electronic ports become the dominant factor of the WDM network cost, it is critical to reduce their number when grooming multicast traffic into high bandwidth light-trees. This paper provides an optimal cost design of WDM networks with multicast traffic grooming. In particular, a light-tree based Integer Linear Programming (ILP) formulation is proposed to minimize the network cost associated with the number of higher layer electronic ports and the number of wavelengths used. Since solving the ILP formulation is time consuming for large networks, we propose a heuristic algorithm, called sub-light-tree saturated grooming (SLTSG), to achieve scalability. This algorithm tries …
+
+150. MPSCTP: a simple and efficient multipath algorithm for SCTP - 2011
+A simple multipath algorithm is proposed to augment Stream Control Transmission Protocol (SCTP) so that multiple available paths may be used concurrently. This requires an additional sequence number in the SCTP header for packets of each path and additional algorithms to handle the reordering that may naturally arise due to flow division over multiple paths. Performance of the proposed protocol has been studied using ns2 based simulation. The results indicate that our algorithm reduces the transmission delay and improves the throughput of the network.
+
+151. Improving congestion control for Concurrent Multipath Transfer through bandwidth estimation based resource pooling - 2011
+Stream Control Transmission Protocol (SCTP) was introduced in 2001 as a multipath variant to traditional transport protocols, i.e. Transmission Control Protocol (TCP) and User Datagram Protocol (UDP). Concurrent Multipath Transfer (CMT) has been proposed as an extension for SCTP to support concurrent usage of available multiple paths. In this paper, we propose a new congestion control algorithm for CMT-SCTP based on the principle of resource pooling. We use the connection bandwidth estimates to obtain the collection of the network resources being used by different flows on multiple paths. Based on these bandwidth estimates, we have used the bandwidth estimation based resource pooling approach to adjust the congestion window of the respective paths. We compare our proposed scheme with CMT-SCTP through ns-2 based simulations.
+
+152. Heuristic algorithms for multicast traffic grooming in WDM mesh networks - 2011
+None
+
+153. MC-OR: Opportunistic routing based mutlicast protocol for wireless networks - 2011
+None
+
+154. Location-aided power and mobility aware routing in wireless ad hoc network - 2011
+None
+
+155. Light-tree configuration for multicast traffic grooming in WDM mesh networks - 2010
+Recent advances in wavelength-division multiplexing (WDM) technology will provide bandwidth intensive multicast applications with large transmit capacities. This article provides two new grooming schemes that lead to efficient resource utilization in WDM networks. They are called Light-Tree Division-Destination Branch Node-based Grooming scheme (LTD-DBNG) and Light-Tree Division-Adjacent Node Component-based Grooming scheme (LTD-ANCG). These schemes are based on the idea of dividing a light-tree into smaller sub-light-trees. They improve the efficiency of resource utilization and also lower the optical-electronic-optical conversion overhead. We use computer simulations to evaluate the performance of these schemes. Our simulations demonstrate that compared with existing algorithms, these schemes significantly reduce the request blocking probability (BP) but can be implemented with …
+
+156. Optimized flow division modeling for multi-path transport - 2010
+Multipath Transport Protocols like Stream Control Transmission Protocol (SCTP) and Multipath TCP (MPTCP) support concurrent usage of multiple paths between the end users. In this paper we investigate the flow division at the source among multiple paths as an optimization problem. We also introduce link-by-link error recovery scheme and compare the system performance when the traditional end-to-end error recovery approach is adopted. The optimization objectives also depend upon whether the supported application is delay sensitive or delay insensitive in nature.
+
+157. Dynamic sub-light-tree based traffic grooming for multicast in WDM networks - 2010
+This paper proposes a multicast traffic grooming scheme for efficient resource utilization in wavelength- division multiplexing (WDM) mesh networks. This Light-Tree Division -Adjacent Node Component based Grooming scheme (LTD-ANCG) is based on the idea of dividing a light-tree into smaller sub-light-trees. It improves the efficiency of resource utilization and lowers the optical- electronic-optical (OEO) conversion overhead. We use computer simulations to evaluate the performance of the scheme. Our simulations demonstrate that compared with existing algorithms, the new scheme significantly reduces the request blocking probability but can be implemented with very reasonable electronic processing.
+
+158. Optimized flow based modeling of multi-path multi-homed transmission - 2010
+None
+
+159. Light-tree based multicast traffic grooming in WDM mesh networks - 2010
+None
+
+160. A new lightpath establishing method for dynamic traffic grooming under the overlay model - 2009
+None
+
+161. Preemption with rerouting to minimize service disruption in connection-oriented networks - 2008
+Resource allocation is a fundamental problem in connection-oriented networks. A preemption mechanism would provide available and reliable services to new connections with higher priority by tearing down existing connections of lower priority. However, end users of the existing connections that are preempted will suffer service disruptions. The duration spent and the work done for these connections are wasted, leading to lower useful utilization of the overall network resources. Soft preemption can alleviate this by rerouting a connection that is about to be preempted before actually tearing it down so that the interruption of ongoing service can be avoided. In this paper, we focus on minimizing the service disruptions caused as a result of preemption by proposing algorithms that incorporate the soft preemption feature. A centralized algorithm is developed to select the network links that have a high number of …
+
+162. Providing differentiated services for multi-class traffic in IP/MPLS over WDM networks - 2008
+Providing differentiated services in IP/MPLS over WDM networks has attracted a lot of recent attention. This article extends the Path Inflation Control (PIC) policy recently proposed by us to provide differentiated services in IP/MPLS over WDM networks with traffic grooming. Three different algorithms are considered for provisioning differentiated services. The simulation results show that, with two of the three algorithms, the network cannot only provide differentiated services when the traffic load is high but also gives significantly lower blocking for the lower priority class traffic and for the overall traffic at low traffic loads.
+
+163. Joint routing and flow rate optimization in multi-rate ad hoc networks - 2008
+Typical radios in ad hoc networks can support multi-rate transmissions. However, traditional routing protocols do not use this feature well in multi-rate ad hoc networks and therefore, the network performance and resource utilization are not optimized. Some algorithms have been proposed to take advantage of the multi-rate transmission scheme, but their performance is not optimized either. In this paper, we show that a cross-layer optimization based approach can significantly improve the performance of multi-rate ad hoc networks over existing routing algorithms. For this, we consider link interference and propose joint routing and flow rate optimization for optimal performance in multi-rate ad hoc networks, i.e., a Cross-layer Optimization based Model for Multi-rate Ad hoc Networks (COMMAN). Considering the characteristics of multi-rate ad hoc networks, we design and implement a distributed heuristic of this …
+
+164. A queue based scheduling approach for WMAN with adaptive augmentation - 2008
+None
+
+165. Throughput and lifetime performance of cost–credit-based routing protocols for power constrained ad hoc networks - 2008
+None
+
+166. An efficient scheduling algorithm for QoS provisioning in WiMAX networks - 2008
+None
+
+167. Multi root node structure for dynamic multi-source multicasting in IP/MPLS over WDM networks - 2008
+None
+
+168. Queue based scheduling for IEEE 802.16 wireless broadband - 2007
+IEEE 802.16 Wireless Broadband is a promising technology for providing last mile access. Quality of Service (QoS) is an important factor that has been addressed by the standard which defines four types of multimedia traffic classes. However resource allocation and scheduling between the traffic classes is vital in providing QoS which the standard has left undefined. In this paper we propose a queue based scheduling algorithm for real time and non real time traffic at the Medium Access Control (MAC) layer. The algorithm is based on resource sharing between real time and non real time traffic depending on their queue size and latency requirements. We have simulated various traffic scenarios by implementing the algorithm in QualNet WiMAX simulator and studied its performance.
+
+169. A three-tier framework and scheduling to support QoS service in WiMAX - 2007
+QoS service provisioning is an important issue for deploying broadband wireless access networks with real-time and non real-time traffic integrated. In order to achieve high utilization while providing different QoS supports to various applications, a QoS architecture and scheduling schemes should be embedded into the MAC protocol. In this paper, we introduce a new 3-tier architecture and scheduling schemes for QoS support in WiMAX. A series of simulation experiments have been carried out to evaluate the performance of the proposed scheduling framework and scheduling algorithms. The simulation results show that the network QoS service performance improves in terms of delay, throughput and loss rate.
+
+170. Enforcing cooperation in an ad hoc network using a cost-credit based forwarding and routing approach - 2007
+None
+
+171. Signal strength based positioning of wireless Ad hoc network sensors - 2007
+None
+
+172. Applying saturated cut method for dynamic traffic grooming in IP/MPLS over WDM networks - 2006
+One of the most important tasks for dynamic traffic grooming in IP/MPLS over WDM networks is to decide when and where to set up new lightpaths to provide bandwidth for the IP/MPLS layer. In this paper, we adapt the conventional saturated cut method to enhance the lightpath establishment capability of various traffic grooming policies proposed earlier. Heuristic modifications are also presented which provide almost the same level of performance with much lower complexity
+
+173. Path selection with preemption and re-routing control for multi-protocol label switching networks - 2006
+None
+
+174. Providing Differentiated Services for Multi-Class Traffic - 2006
+None
+
+175. Implementation of a MANET test bed and development of multi-path transport strategies with QOS support and reliability - 2006
+None
+
+176. Modifying AODV for Efficient Power-Aware Routing in - 2006
+None
+
+177. CLA-QOS: A Cross-Layer QoS Provisioning Approach for - 2006
+None
+
+178. Dynamically survivable WDM network design with p-cycle-based PWCE - 2005
+The concept of a protected working capacity envelope (PWCE) is very attractive for designing a dynamically survivable WDM network. We consider a p-cycle-based PWCE approach for designing survivable WDM networks where the traffic demand is dynamically changing. We develop an integer linear programming formulation to determine the protected working capacity envelope and use simulations to evaluate the blocking performance for different network models.
+
+179. Modifying AODV for efficient power-aware routing in MANETs - 2005
+Unlike infrastructure based wireless networks, nodes in mobile ad hoc networks (MANETs) will also have to act as intermediate nodes for data routing. These additional transmissions will further drain the power resources of mobile nodes which are anyway likely to be running on limited battery power. This paper proposes a power-aware ad hoc on-demand distance vector routing protocol (PAW-AODV) for such power limited applications. This uses the overall power resources of the system more efficiently than the standard AODV protocol by choosing routes based on a power-based cost function. We implement our proposed PAW-AODV protocol by suitably modifying AODV and study it through simulations using QUALNET. Simulation results show that PAW-AODV is able to provide more throughput than AODV over the life of the system and can make better use of the limited battery power available.
+
+180. Performance comparison of overlay and peer models in IP/MPLS over optical networks - 2005
+We study the connection establishment of label switched paths (LSPs), and compare the LSP blocking performance of the overlay and peer models in IP/MPLS over optical networks. We consider two dynamic routing algorithms for the establishment of LSP connections, of which one is for the overlay model and the other is for the peer model. Our investigations on two typical network topologies, namely NSFNET and ARPA2 networks, show that the number of add/drop ports (or transceivers) on optical cross-connects (OXCs) has a significant impact on the LSP blocking performance for both models. We show by computer simulation that in each case, there is a threshold value for the add/drop ratio, which can achieve almost the best blocking performance. This threshold value remains virtually unchanged as the traffic load varies, but it does depend on the network topology and the number of wavelengths per …
+
+181. Applying saturated cut method in dynamic multicast traffic grooming in IP/MPLS over WDM mesh networks - 2005
+Handling low and medium speed traffic flows using cost-effective traffic grooming strategies is becoming increasingly important for the efficient operation of WDM networks. In this paper, we apply the saturated cut method to routing sub-wavelength multicast traffic in reconfigurable, unicast, mesh WDM networks. Simulations show that setting up lightpaths for the saturated cut significantly improves network-blocking performance
+
+182. CLA-QOS: A cross-layer QoS provisioning approach for mobile ad-hoc networks - 2005
+The increasing popularity of the multimedia applications in mobile ad hoc networks (MANETs) has led to research on QoS support for these applications. However, this is difficult in such networks because of factors such as shared and variable wireless bandwidth, limited power supply and possible mobility of the nodes. Although many QoS provisioning schemes have been presented, few have provided the end-to-end QoS assurance from the point of view of cross layer optimization. In this paper, a cross-layer approach to QoS provisioning (CLA- QOS) is proposed to provide such QoS support. Simulation results show that the CLA-QOS approach provides QoS guarantees in terms of the in-time packet delivery ratio of packets. Simulation studies supporting this are provided.
+
+183. Investigating Power Aware AODV for Efficient Power Routing in MANETs - 2005
+A mobile ad hoc network (MANET) is a wireless network set up "on the fly" without the need of any network infrastructure to be present. As such, the mobiles nodes in a MANET have to double up as intermediate nodes for data routing. These additional transmissions will further drain the power resources of mobile nodes which are anyway likely to be running on limited battery power. This paper proposes and investigates a Power-Aware Ad hoc On-demand Distance Vector routing protocol (PAW-AODV) for efficient power routing. PAW-AODV could use the limited power resources efficiently as it routes based on a power-based cost function. Both AODV and PAW-AODV are simulated in various mobile situations using QUALNET. They are also subjected to the various hop count limits that the data could traverse from source to destination. Their performances in the various scenarios are then compared to reflect the …
+
+184. Priority enabled dynamic traffic grooming - 2005
+The path inflation control (PIC) policy limits the spread of congestion in IP/MPLS over WDM networks. In this paper, the PIC policy is extended to provide differentiated services based on priority so that high priority LSP requests encounter less blocking than low priority requests. Simulations indicate that the scheme works well even under dynamically fluctuating traffic loads.
+
+185. TUBA-A time urgency based algorithm for QoS provisioning in mobile ad hoc networks - 2005
+None
+
+186. A cross-layer approach of QoS support in multihop wireless networks - 2005
+None
+
+187. Optical resilient Ethernet rings for high-speed MAN networks - 2005
+None
+
+188. A new preemption strategy with re-routing control for MPLS networks - 2005
+None
+
+189. SERA: Service Ratio Based Preemption for Minimizing Throughput Loss in Networks - 2005
+None
+
+190. An enquiry-based dynamic service provisioning approach for overlay IP-over-optical networks - 2005
+None
+
+191. Queue Control Strategies for Multimedia Networking - 2005
+None
+
+192. Enhancement of lightpath establishing capability for dynamic traffic grooming - 2005
+None
+
+193. Dynamic Multicast Traffic Grooming in IP/MPLS over WDM Mesh Networks - 2005
+None
+
+194. We4. P. 051 Enhancement of Lightpath Establishing Capability for Dynamic Traffic Grooming - 2005
+None
+
+195. A path inflation control strategy for dynamic traffic grooming in IP/MPLS over WDM network - 2004
+The use of alternate routes for traffic grooming in IP/MPLS over wavelength-division multiplexing (WDM) networks may lead to the propagation of congestion from one link to others in the IP/MPLS layer. This can be tackled by using the path inflation control (PIC) strategy proposed here for operating an IP/MPLS over WDM network in the overlay model. This supports dynamic traffic grooming with less blocking than other strategies. Network resource usage is also efficient as new lightpaths are set up for a new label switched path (LSP) request only when indicated by the congestion conditions.
+
+196. Preemption algorithm with re-routing to minimize service desruption - 2004
+Preemption policy is used to determine the combination of existing connections to be preempted in a heavily loaded network. Connections that are preempted are torn down and may be re-routed after the preemption event. However, by tearing the preempted connections, end users experience temporary service disruption. This affects real-time applications such as streaming video and voice applications. If the preempted connections can be re-routed before being torn down, the end users become virtually unaware of the preemption process. Service disruption was minimized. This paper introduces the existing preemption algorithms and the modifications proposed in order to incorporate the re-routing capability. Simulation results show the ability of the proposed algorithm to reduce service disruption experienced by end users
+
+197. Resilient Ethernet ring for metropolitan area networks - 2004
+This paper presents a new resilient Ethernet ring (RER) approach to allow the Ethernet to be operated in ring topologies for transporting data in metropolitan area networks (MANs). Developed based on standard Ethernet datalink switching technology, RER is simple and data-efficient. The ring topology simplifies the decision-making process for frame forwarding and also enables the RER to recover from failure within 50 ms. Simulations show that RER transports data efficiently in MANs
+
+198. Exact and approximate analytical modeling of an FLBM-based all-optical packet switch - 2003
+This paper develops both exact and approximate models for the analysis of an all-optical packet switch based on a fiber-loop buffer memory (FLBM). The switch structure and operation is based on the fully shared buffer architecture of the Research and Development in Advanced Communications in Europe-ATM Optical Switching (RACE-ATMOS) project
+
+199. Array interconnection for rearrangeable 2-D MEMS optical switch - 2003
+Two-dimensional (2-D) microelectromechanical systems (MEMS) optical switches can be constructed by arranging the MEMS-actuated micromirrors as an array. We consider here the switching capability, routing, and optimization of the rectangular array interconnection on which the capability and efficiency of 2-D MEMS switches depend. The switching capability of a rectangular array is proved analytically. Two routing algorithms, namely, the most-bend routing and the least-bend routing, are developed, which, respectively, maximize and minimize the number of 2 × 2 switches in the"bend"state. A method of counting the number of permutations realizable with a given number of switches in the"bend"state is proposed to evaluate the performance of both routing schemes. The understanding of the underlying interconnection pattern enables us to study the problem of constructing rearrangeable optical switches of …
+
+200. The impact of the number of add/drop ports in wavelength routing all-optical networks - 2003
+None
+
+201. Link and Path Metrics for Broadband Networks: Simulation Studies using the Encourager Program - 2003
+None
+
+202. Sparse placement of electronic switching nodes for low blocking in translucent optical networks - 2002
+We evaluate the performance of optical network designs using relatively few switch nodes at which wavelength conversion and electronic regeneration is possible. A simple heuristic for placing the fewest such nodes to reach a given blocking probability is based on the ranked frequency of shortest-path routes transiting each node. This strategy is found to be efficient in designing a translucent optical network with sparse electronic switch placement that performs very close in blocking to that of an opaque optical network. In addition, we apply a new two-dimensional Dijkstra algorithm for routing and wavelength assignment in the resultant translucent optical network. Simulation results indicate that a translucent optical network with sparse electronic switch placement based on the heuristic has much lower blocking than a fully transparent optical network when the constraint of the maximum transparent distance before …
+
+203. Architectural design for multistage 2-D MEMS optical switches - 2002
+Next-generation wavelength routing optical networks requiring optical cross connects (OXC) in the network have the ability to direct optical signals from any input interface to suitable output interfaces by configuring their internal embedded optical switch matrices. Microelectromechanical systems (MEMS) switches are regarded as the most promising technology to achieve such functionality. We consider the construction of a multistage MEMS switch network with single two-dimensional (2-D) MEMS switch blocks. A power loss model is developed that calls on a single MEMS block that is then used to develop the model for a three-stage Clos network. An effective model for maximum loss difference between calls is also developed. Based on these, the paper also proposes three connection patterns [Max + Min] greedy (MMG), compressed extended generalized shuffle 1 (C-EGS-1),and compressed extended …
+
+204. Sparse converter placement in WDM networks and their dynamic operation using path-metric based algorithms - 2002
+We consider WDM networks with lightpath switching where wavelengths may be converted, as required, along the lightpath. For efficient converter usage in such a network, sparse converter placement may be followed where only some of the network nodes are equipped with wavelength converters. Given the nominal network traffic pattern, we present a simple heuristic algorithm which may be used to determine the location of these converters for good network performance. For a network designed in this fashion, we consider the application of a path-metric based heuristic algorithm for lightpath routing and wavelength selection along the links of the selected route. Dynamic operation of the sparse converter network is considered using this path-metric based algorithm for lightpath routing and wavelength selection.
+
+205. Design and performance of optical cross-connect architectures with converter sharing - 2002
+None
+
+206. Crosstalk analysis for limited-wavelength-interchanging cross connects - 2002
+Identifies crosstalk sources in limited-wavelength-interchanging cross connects (L-WIXC) and calculates the power penalty imposed by this. Specifications for the components used in the L-WIXCs can then be determined for obtaining a specified level of system performance.
+
+207. A novel rearrangeable non-blocking architecture for MEMS optical space switch - 2002
+None
+
+208. Basic Queueing Theory: Fundamentals of Analyzing Single Queues - 2002
+None
+
+209. Simulation Techniques for Queues and Queueing Networks: Basic Principles for the Design of Queueing Simulators - 2002
+None
+
+210. Advanced Queueing Theory: Vacations, Bulk Arrivals and Priorities in a M/G/1 Queue and the Geo/G/1 Queue - 2002
+None
+
+211. ROUTING AND CONTROL IN OPTICAL NETWORKS - 2002
+None
+
+212. Emerging network technologies - 2002
+None
+
+213. Ultra-high speed optical network - 2002
+None
+
+214. Next generation broadband network - 2002
+None
+
+215. Advanced Queueing Networks: Approximation Techniques and Algorithms for Open and Closed Queueing Networks - 2002
+None
+
+216. Analysis of the M/G/1 Queue in Equilibrium: Performance Analysis Using Residual Life and Imbedded Markov Chain Approaches - 2002
+None
+
+217. Fundamentals of Queueing Networks: Open and Closed Networks with Product-Form Solutions - 2002
+None
+
+218. Performance study on a WDM packet switch with limited-range wavelength converters - 2001
+We consider a slotted WDM packet switch with limited-range wavelength converters. The performance of this switch is studied using simulations with various types of data traffic. Results show that the slotted WDM packet switch with a small range of wavelength conversion capability can achieve a performance close to that of a switch with the full range of wavelength conversion capability.
+
+219. Efficient heuristic algorithms for light-path routing and wavelength assignment in WDM networks under dynamically varying loads - 2001
+This paper presents heuristic algorithms that may be used for light-path routing and wavelength assignment in optical WDM networks under dynamically varying traffic conditions. We consider both the situations where the wavelength continuity constraint is enforced or not enforced along a light-path. The performance of these algorithms has been studied through simulations. We also compare their performance with that of a simpler system that uses fixed shortest-path routing. Our proposed algorithms provide lower blocking probabilities and are simple enough to be applied for real time network control and management. The heuristic algorithms are computationally simple and efficient to implement and provide good wavelength utilisation leading to efficient usage of the network's resources.
+
+220. Analytical modeling for performance studies of an FLBM-based all-optical packet switch - 2001
+This letter analyzes an all-optical packet switch based on fiber loop buffer memory (FLBM). The number of recirculations of a packet in the fiber loop is limited by noise constraints whereas the total number of packets stored in the fiber loop is constrained by the number of available wavelengths. The switch operates as an output-queued switch with these constraints. We analyze this switch for its blocking performance for incoming packets.
+
+221. Performance analysis under dynamic loading of wavelength continuous and non‐continuous WDM networks with shortest‐path routing - 2001
+The performance of WDM networks using shortest path routing is studied under wavelength continuous (WC) and non‐continuous (NWC) constraints and dynamic traffic loading. Approximate analytical models are presented for the performance studies of such systems. Results of numerical calculations based on these models and simulations are given for different network topologies for the purposes of comparison. These analytical and simulation results are used to study the performance of these WDM networks under dynamic traffic loading. Copyright © 2001 John Wiley & Sons, Ltd.
+
+222. Approximate analysis of limited-range wavelength conversion all-optical WDM networks - 2001
+We use the analytical model for multi-fibre WDM networks to approximately analyse the network performance of limited-range wavelength conversion WDM networks. In addition, we develop a simple analytical model for multi-fibre networks with limited-range wavelength conversion capability by combining the multi-fibre network model and the limited-range wavelength conversion network model. Extensive calculations based on these models have been done for networks with a single light-path and with different wavelengths on each link. Based on the results obtained, we conclude that our analytical model is simple and yet can effectively analyse the impact of wavelength conversion range and fibre number on the network performance.
+
+223. Adaptive resource negotiation based control for real time applications - 2001
+None
+
+224. On the analysis of optical cross-connects with limited wavelength conversion capability - 2001
+None
+
+225. Development and QOS of interactive network applications - 2001
+None
+
+226. Operation of WDM networks with different wavelength conversion capabilities - 2000
+We study the impact of wavelength conversion capability on wavelength routing WDM networks with fixed shortest-path routing. We propose a method for implementing wavelength routing in a WDM network with partial wavelength conversion capability. Simulation results show that such partial wavelength conversion networks provide a performance in between that of wavelength continuous networks and those with full conversion capability. In addition, it can be seen that only limited wavelength conversion capability is enough to provide a performance close to that of a network with full conversion. Analytical and simulation bounding results for the full and no conversion cases have also been provided.
+
+227. Designing WDM optical network for reliability: routing light paths efficiently for path protection - 2000
+Optical networks using WDM technology can provide high capacities between their source-destination node pairs. This, however, also implies that greater care needs to be taken to protect the network as substantial traffic and revenues may be lost in case of failures.
+
+228. The queueing network analysis tool (QNAT) - 2000
+In this paper we describe QNAT, a software tool developed at Indian Institute of Technology, Kanpur, India, for the analysis and simulation of queueing networks. Arbitrary configurations of open or closed networks of multi-server queues with infinite or finite capacity, fork-join queues with or without synchronization queues can be analyzed or simulated using QNAT. Queueing Networks with multiple classes of customers mall be specified with each class being a closed or an open class independently if there are finite capacity queues in the system, the type of blocking mechanism-transfer, repetitive service or rejection, can also be specified. For the applications where the accuracy of the results is important, an option to simulate the network is also provided. QNAT has proved to be a useful tool for the design of telecommunication systems, computer networks, modeling of industrial systems, design of banking systems …
+
+229. Efficient wavelength assignment algorithms for light paths in WDM optical networks with/without wavelength conversion - 2000
+In order to reduce the overall wavelength number required in a wavelength division multiplexing (WDM) network with static traffic loading, new heuristic algorithms for wavelength assignment are proposed in this paper. A new parameter called “one-wavelength-decrease cost” is defined and used to compare the efficiency of these algorithms. Comparative simulation studies have been carried out for various network topologies to investigate the effectiveness of the proposed algorithms.
+
+230. The impact of number of transceivers and their tunabilities on WDM network performance - 2000
+For all-optical WDM networks, we study the impact of the number of transceivers and their tunabilities on network performance. Results have been obtained through simulations for networks with different topologies. We find that a network with a limited number of transceivers in each node and limited transceiver tunability can still perform close to one equipped with a full number of fully tunable transceivers.
+
+231. Analytical model for a WDM optical cross-connect with limited conversion capability - 2000
+We introduce a general model for describing the connection setup in various wavelength-routing optical cross-connects with limited conversion capability. It enables us to determine if a given connection pattern can be supported, and to calculate the blocking performance of the cross-connects.
+
+232. QoS for interactive network applications under priority assignment control scheme - 2000
+None
+
+233. QoS for Interactive Network Applications under Priority Assignment Control - 2000
+None
+
+234. Approximate analysis of open network of GE/GE/m/N queues with transfer blocking - 1999
+In this paper we describe an approximate method for the analysis of an open network of finite capacity queues. Finite buffer capacities at the nodes introduce blocking of jobs that finish service at a node and find that the destination node is full at that time. When this happens, we assume that the blocked job is held at the server of the queue where it just completed service, blocking that server until the destination can accommodate it. This is called transfer blocking or blocking after service. We also assume that an external arrival that finds a full queue is lost. We consider an open queueing network with inter-arrival times of external arrivals and service times at each queue having a generalized exponential (GE) distribution. Queues can have finite buffers. To solve this system we augment the network by adding a "holding node" for every stream that can be blocked to hold the blocked jobs during the period …
+
+235. Low-delay heuristic algorithms for wavelength assignments in WDM networks - 1999
+None
+
+236. QNAT: A graphical tool for the analysis of queueing networks - 1998
+The Queueing Network Analysis Tool (QNAT) is a powerful package for analysing a wide variety of queueing networks. QNAT has a friendly GUI for a PC-Windows environment and uses Mathematica/sup TM/ as its computing platform. QNAT can handle general configurations of open and closed networks of both finite and infinite capacity queues. Incorporation of fork-join nodes (with and without a synchronising queue), multiclass customers, mixed customer classes and blocking mechanisms of different types are some of the other features available in QNAT.
+
+237. Distributed dynamic bandwidth allocation and management for self-healing broadband networks with multi-class traffic - 1998
+None
+
+238. A study on call-level output process of an ATM switch with distorted on/off sources as input - 1998
+None
+
+239. Queuing analysis of a non-pre-emptive MMPP/D/1 priority system - 1997
+This paper presents the matrix analytic analysis of a dual non-pre-emptive priority system with constant service times. For each priority class, arrivals occur for two separate queues with infinite buffers and are modelled as two independent Markov-modulated Poisson processes. The queue length densities and queuing delays of this system are computed using the above approach for some typical examples. They are found to be in agreement with the results obtained through simulation. Approximate models for this system and their range of validity are also considered. The applications of the results to ATM networks are discussed.
+
+240. A Study on Call-level Output Process of an ATM Switch - 1997
+None
+
+241. Using maximum entropy principle for output burst characterization of an ATM switch - 1996
+None
+
+242. Strategies for distributed dynamic channel reconfiguration in communication networks - 1995
+None
+
+243. A New Approach for Network Topology Optimization - 1995
+None
+
+244. An exact model for the queueing analysis of a non-preemptive MMPP/D/1 priority system for ATM applications - 1994
+None
+
+245. Traffic Capacity and Access Control - 1993
+None
+
+246. An approach for automatic generation of simulators for a class of random access algorithms - 1993
+None
+
+247. A System Using Dynamic Bus Reconfiguration for Fast and Efficient Contention-free Access in LANs - 1992
+None
+
+248. A new approach to efficiently integrate multi-rate synchronous and asynchronous sources in a token-ring type LAN - 1992
+None
+
+249. Improving the priority service provided in a token ring with the new ring/bus protocol - 1991
+None
+
+250. Multi-priority implementaion of the ring/bus protocol-a more efficient version of the token ring approach - 1991
+None
+
+251. The Performance Study of Interconnected Heterogeneous Networks using Simulations - 1991
+None
+
+252. A System Using Dynamic Bus Reconfiguration - 1991
+None
+
+253. An efficient protocol for providing integrated voice/data services to mobiles over power‐limited satellite channels - 1991
+None
+
+254. Providing Integrated Continuous Voice/Data Services to Mobile Terminals through a Power-Limited Satellite Transponder - 1990
+None
+
+255. A mobile communication system providing integrated voice/data services over power limited satellite channels - 1989
+None
+
+256. Automation for coal washeries in Bharat Coking Coal Limited - 1989
+None
+
+257. A Collision Resolution Protocol with Simplified Energy Detection - 1986
+None
+
+258. Method for random-access radio-frequency data communications - 1984
+A method for random-access data communications to and from a central controller, from and to at least one of a plurality of remote stations, by providing at least one radio-frequency channel having the bandwidth thereof allocated into at least a message channel and an acknowledgment channel. The message channel fractional bandwidth is greater than the acknowledgment channel fractional bandwidth. Status data is transmitted from each of the remote stations to the central controller, with the central controller acknowledging receipt thereof. In the event of a change of status message being received by the central controller, the central controller decides upon a course of action for the system and broadcasts system action messages, each addressed to a particular remote station at which the action is to be carried out. The operational system modes include a link-monitoring mode for checking the radio-frequency …
+
+259. Method and apparatus for data transmission using chirped frequency-shift-keying modulation - 1984
+A method for transmission of digital data utilizes a carrier frequency offset in a first frequency direction for a first binary condition, and offset in a second frequency direction for the remaining binary condition, at the start of a bit time interval. The carrier frequency is swept in a preselected frequency direction during each bit time interval, to produce a chirped frequency-shift-keyed waveform in the frequency domain, for transmission of each bit of binary data. Frequency-shift-keyed demodulation is utilized at a receiving end, with the receiver synchronized to the transmitter bit time interval, to recover the transmitted digital data. Apparatus for data transmission using this chirped frequency-shift-keyed modulation waveform is disclosed.
+
+260. Methods, and apparatus, for transmitting high-bit-rate digital data in power line communication media having high harmonic noise content - 1984
+In a power line data communications system, high-bit-rate digital data is transmitted through a communications media, having high harmonic noise content, by use of a frequency-modulated chirp waveform. The chirp waveform instantaneous frequency is at a predetermined center frequency at the start, midpoint and end of each bit time interval, and makes substantially linear frequency changes to a maximum frequency and a minimum frequency at selected ones of the one-quarter and three-quarter bit-time-interval times. A binary-one data bit is transmitted by increasing the instantaneous frequency to reach the maximum frequency at the one-quarter interval time, then decreasing the frequency to reach a minimum frequency at the three-quarter interval time, and reducing the instantaneous frequency thereafter to reach the center frequency at the end of the bit time interval. A binary-zero data bit is transmitted by …
+
+261. Method for digital data transmission with bit-echoed arbitration - 1984
+In a digital data communications system having a plurality of slaved data transceivers transmitting data to, and receiving data from, a master station, the master station classifies a received signal, in each of a multiplicity of bit time intervals, as one or the other of the pair of binary signal states. The received binary signal state is echoed to all of the slaved stations, to cause those stations which did not previously transmit that binary state to cease transmitting data. Those slave stations which transmitted the echoed previous bit binary state then transmit the next bit of data, which is again echoed. Slaved stations receiving bit echoes which are different from the previous bit sent will know that there has been a collision and that the master station did not receive their bit of data, whereby the number of slave stations transmitting is reduced, in successive bit time intervals, until only one slave station remains transmitting. The …
+
+262. Threshold-less collision detection and bit arbitration in a CFSK data system - 1983
+In a chirped-frequency-shift-keyed data system, in which a plurality of stations each contain a data transmitter and a data receiver constantly monitoring a common system communications medium even while the companion transmitter is transmitting digital data, the CFSK signal is received during each of a successive plurality of synchronous bit time intervals with a first amplitude. The received signal is: squared and filtered in a first channel; multiplied with a locally generated signal of a second amplitude and associated with a first binary chirp condition, and then filtered, in a second channel; and multiplied with another locally generated signal of the second amplitude and associated with the remaining binary chirp condition, and then filtered, in a third channel. The channel outputs are functions of the signal amplitudes and also of the number of system transmitters simultaneously transmitting one or the other of the …
+
+263. Implementation of a Microprocessor-Based Access Controllers for a Multi-Drop Multi-Access Network - 1983
+None
+
+264. Radio frequency stimulated exoelectron emission from graphite - 1982
+None
+
+265. Packet communication system for a multi-beam beam switched satellite repeater - 1982
+None
+
+266. High capacity: Low delay packet broadcast multiaccess - 1980
+Demand assigned packet radio schemes using satellites can achieve high bandwidth utilizations but they generally exhibit relatively poor delay performance at low traffic when compared with random access schemes. A modified demand assigned scheme is proposed which improves delay performance at low traffic by allowing random access transmissions by users who are waiting for channel assignments. The proposed scheme provides low average delays at low traffic (comparable to slotted ALOHA) and bandwidth utilizations comparable to that of demand assigned schemes. The scheme has potential application in situations where the traffic loading tends to vary widely.
+
+267. High capacity low delay packet broadcasting multiaccess schemes for satellite repeater systems - 1980
+None
+
+268. High capacity low delay packet broadcasting multiaccess schemes for satellite repeater systems[Ph. D. Thesis] - 1980
+None
+
+269. A multiple access scheme for packet radio channels - 1979
+None
+
+270. Crisis in Education - 1979
+None
+
+271. educational facilities,(v) the increasing qualitative deterioration - 1979
+None
+
+272. LYSOGENIC CONVERSION IN SERRATIA MARCESCENS - 1975
+None
+
+273. Simple Hückel calculation on triphenyl cyclopropenyl cation - 1966
+None
 
